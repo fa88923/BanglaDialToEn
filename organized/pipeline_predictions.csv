@@ -1,0 +1,661 @@
+﻿input,dialect,confidence,translation,reference,ground_truth_dialect,dialect_match
+তোয়ার আব্বু কেন আসে?,Noakhali,0.8294,Why is your father here?,How is your father?,Chittagong,False
+তুইকি আরে হাম্মান গরি দিত্তারিবানা?,Chittagong,0.9986,Can you please treat me like this?,Can you do this for me?,Chittagong,True
+তোয়ার ডইল্লে মরতফোয়া আই এক্কান ও নো দেহি,Chittagong,0.9987,I haven't seen a young boy like you.,I've never seen a bad boy like you,Chittagong,True
+আর লাই ফোওয়া কুজেরদে,Chittagong,0.9984,The boy cried for me,Amma is looking for a boy for me for marriage,Chittagong,True
+আর গুরতো বহুত ভালা লাগে,Chittagong,0.9487,I like it a lot,I like to travel a lot,Chittagong,True
+আর ভাই ছোড ইবা স্কুলত জাইতো ন চায়,Chittagong,0.9987,My younger brother does not want to go to school.,My younger brother doesn't want to go to school,Chittagong,True
+আই একদিন স্কুলর মাডত মাথা গুরাইয়েরে ফরি গেইলাম,Chittagong,0.9987,One day I crossed the school grounds,I lost my head one day in the school grounds,Chittagong,True
+অনেকি আরে হোন দিনো ভালোনোবাসিবান?,Chittagong,0.9956,Will you ever love me?,Will you never love me?,Chittagong,True
+আর বন্ধু জিতারে ভালোবাসে ইতে রাজশাহী তাহে দে,Chittagong,0.9986,My friend loves to live in Rajshahi.,The one my friend loves lives in Rajshahi,Chittagong,True
+মাইয়াা ফয়া ইব আরাজশাহীত্তুন আর ডোর ভাইর ফয়ারিত দেহা গরিবেল্লাই আইসসিল,Chittagong,0.9986,The girl came to see my elder brother from Rajshahi.,The girl came from Rajshahi to meet my elder brother,Chittagong,True
+অনেকি আরে আগে হন দিন দেইক্কুন্না?,Chittagong,0.9984,Have you ever seen me before?,Have you ever seen me before?,Chittagong,True
+অনেকি আরে চিনিত্তাইজ্জুন্না?,Chittagong,0.9979,Do you recognize me?,Do you recognize me?,Chittagong,True
+মাইয়াফোয়াা ইবা আরে ন চিনে,Chittagong,0.9986,The girl doesn't know me.,The girl didn't recognize you,Chittagong,True
+আর ভআই ছোড ইবা স্কুলত জাইয়েরে বন্দুর ফোয়ারিত গলফ মারে দে,Chittagong,0.9987,My younger brother goes to school and fights with his friends.,My younger brother goes to school and chats with his friends,Chittagong,True
+আর বন্ধু স্কুলর মাডত ফ্রতিদিন ক্রিকেত হেলা হায় দে,Chittagong,0.9986,My friend plays cricket on the school field every day.,My friend plays cricket everyday in the school ground,Chittagong,True
+আর বউ আরে ভালনোবাসেদে,Chittagong,0.9926,My wife does not love me.,My wife doesn't love me,Chittagong,True
+স্কুল জীবনেত্তুন আর ভআই ফয়ারিত তোয়ার ভইনর ফ্রেম আসিল,Chittagong,0.9975,My brother had a love affair with your sister from school life,Your sister was in love with my brother since school life,Chittagong,True
+তোয়ারর হাশির হাসে আর বেয়াক্কিসু আর মানে দে,Chittagong,0.9985,Your presence means everything to me.,I lose everything to your smile,Chittagong,True
+তোয়ার চখ দুইয়ান বহুত সুন্দর,Chittagong,0.9949,Your eyes are very beautiful.,Your eyes are very beautiful,Chittagong,True
+তোওয়ার ফোয়ারিত বহুত দিন ফর দেহা অইয়েদে,Chittagong,0.9987,It's been a long time since we met.,See you after a long time,Chittagong,True
+ফয়া ইবা বদেশত জাইয়েরে ফন্নাফরিবার স্বপ্ন দেহে,Chittagong,0.9986,The boy dreams of going abroad to study.,The boy dreams of studying abroad,Chittagong,True
+তোয়ার ফোয়ারিত হতা হইয়েরে আত্তুন বহুত গম লাগেদে,Chittagong,0.9987,I really enjoy talking to you.,I enjoyed talking with you,Chittagong,True
+তোওয়ার বন্দুর ফোয়ারিত ফরিচয় অইয়েরে ভালো লাইজ্ঞে,Chittagong,0.9987,Nice to meet your friend.,Nice to meet your friend,Chittagong,True
+লোক ইবা কিছু আগদ্দি বিয়া গইজ্জেদে,Chittagong,0.9987,The man got married some time ago.,The man got married a few days ago,Chittagong,True
+বেশি হইবার আগে আবেগে ছখত ফানি চলি আইসসে,Chittagong,0.9977,"Before much could be said, tears came to her eyes with emotion.","Before saying more, tears are coming to the eyes",Chittagong,True
+এক্কাজন মহিলা ইন্তেকাল গইজ্জে,Chittagong,0.9982,A woman has died.,A woman died,Chittagong,True
+অনে এইল্লে গরিব আগে কিল্লাই ন হন,Chittagong,0.9986,Why didn't you say you were so poor before?,Why didn't you tell me earlier that you are so poor,Chittagong,True
+আর আম্মু আরে বেয়াক্কুনর সাম্নদ্দি মাইত্তে মাইত্তে বাসাত লই গিয়ি,Chittagong,0.9987,My mother took me home in front of everyone,My mom brought me home beating me in front of everyone,Chittagong,True
+অনে কি জানন্না এডে বহুত মরত ফোয়া কমেন্ট ফরিবেল্লাই আইবদে,Chittagong,0.9987,Do you know that many boys come here to read the comments?,Do you know that many boys will come here to read comments,Chittagong,True
+আর ভালোবাসা দিয়েরে সারাজীবন তোয়ার ফাশে তাইক্তাম চাই,Chittagong,0.9946,I want to be with you with my love for a lifetime.,I want to be with you all my life with my love,Chittagong,True
+তোয়ারে কেনে বুঝাইতাম আই তোয়ারে হতকান ভালোবাসি?,Noakhali,0.5438,How can I explain that I truly love you?,How to tell you how much I love you?,Chittagong,False
+অনে কিখুব হষ্ট গরিয়েরে নিজেরে মেনেজ গইজ্জেন,Chittagong,0.9987,You have submitted to yourself with a lot of hardship.,You have handled yourself with great difficulty,Chittagong,True
+আর বান্ধুবি আরে ছাড়া কিছু ভাবিত ন ফারের,Chittagong,0.9969,My friend can't think of anything without me.,My girlfriend can't think of anything without you,Chittagong,True
+আর বন্ধু কিছু লিখিন্নোফারে অনের নাম্মান ছাড়া,Chittagong,0.9984,My friend can't write anything without your name.,My friend can't write anything except your name,Chittagong,True
+অনেরে ভালোদবাসি হতা ইবা হন বাকি,Chittagong,0.9987,It's all that remains to say I love you.,All that is left to say is that I love you,Chittagong,True
+আই আম্র বন্ধুরে এক্কান লাল গোলাফ কিনি উফহার দিয়ি,Chittagong,0.994,I bought a red rose and gifted it to my friend,I bought and gifted a red rose to my friend,Chittagong,True
+"যদি তুই আর হাসে ফিরি আইয়, তইলে তারে ছাড়ি দো",Chittagong,0.9336,"If you come back to me, leave him/her.","If you come back to me, let him go",Chittagong,True
+অনে যে মানুষোরে ভালোবাসিবান তারে যদি নো বুঝিত্তারন তাইলে অনে এই ফ্রেমর হোনো মানে নাই,Chittagong,0.9987,"If you don't understand the person you love, then this love has no meaning.",If you don't understand the person you love then your love has no meaning,Chittagong,True
+অনের মনর হতা ইন আরে আজিয়া খুলি হন,Chittagong,0.9987,Tell me what's on your mind today.,Tell me your thoughts today,Chittagong,True
+তুই হোনো সমত নো ফারিবা হনিক্কার ভালোবাসা ছিনিইয়েরে লইতা,Chittagong,0.9987,You will never be able to steal someone's love.,You can never take away someone else's love,Chittagong,True
+তুই জোর গরিয়েরে আন্য আরেকজনর ভালোলাগার মানুষ অইন্নো ফারিবা,Chittagong,0.9987,You cannot force yourself to be someone else's favorite person.,You can't force others to like you,Chittagong,True
+আগামি হালিয়া সকালত তারারে দেখিত্তারিবান,Chittagong,0.9986,You will be able to see them tomorrow morning.,You will see them again tomorrow morning,Chittagong,True
+আত্তু্তুন বহুত ভালো লাগেদে অই হালা চখ দুইয়ান,Chittagong,0.998,I really like black eyes.,I like those black eyes of yours,Chittagong,True
+তোমার হাজার হথার মঝত তোয়ার মনর হতা লুয়াই তাইক্কে,Chittagong,0.9987,"Amidst your thousand words, the words of your heart are hidden.",Your heart was hidden in your thousands of words,Chittagong,True
+তোয়ার ফোন্না ফরিয়েরে লাবহান কি যদি তুই যারে ভালোবাসো তারেই ন ফো,Chittagong,0.9986,What's the point of studying if you don't find the one you love?,What happens to your studies if you don't find the one you love?,Chittagong,True
+মাসর বাজারত বেয়াক্কুন আইয়েরে ডর মাস দেহিবেরলাই ভির জমাইয়ে,Chittagong,0.9987,Everyone has come to the market to see the big moon and froze their heads.,The fish market was crowded to see the big fish,Chittagong,True
+আকাশর নিলত হারাই যাইতাম চাই তোয়ারে লই,Chittagong,0.9986,I want to lose you in the blue of the sky.,I want to get lost in the blue sky with you,Chittagong,True
+অনের কি এহোন অনের ভালোবাসার মানুষ ইবার হতা মনত ফরে না,Chittagong,0.9987,Don't you remember the person you love?,Do you still remember your loved one?,Chittagong,True
+তুই এক সন্ধাত আফিসেত্তুন বাসায় আইয়েরে দেখিবা আই আর নাই,Chittagong,0.9975,You come home from the office one evening and see that I am no longer here.,You will come home from office one evening and find I am gone,Chittagong,True
+আই যে মা তাই আই আর বাইচ্চার মুখর মিক্কে সাইয়েরে বহুত কিছু মুঝিত্তারি,Chittagong,0.9986,"As a mother, I can understand a lot by looking at my child's face","As a mother, I understand a lot by looking at my child's face",Chittagong,True
+মাইয়া ফোয়া ইবা ভালো চরি গরে,Chittagong,0.9987,The girl is doing well.,The girl does a good job,Chittagong,True
+এই আমসত ফোয়া তার ফরিবার লইয়েরে ঘুরিবার যাইবার হতা,Chittagong,0.9987,"This summer, the boy is going for a trip with his family.",This month the son is supposed to travel with his family,Chittagong,True
+মাইয়া ফোয়া এই মরতফোয়া ইবারে বিয়া গইত্ত রাজি ন অর,Chittagong,0.9987,The girl does not agree to marry this boy.,The girl is not agreeing to marry this boy,Chittagong,True
+আর জামাই আরারে লইয়েরে লাতিয়া ঘুইরতে বাইর অইবদে,Chittagong,0.9984,My husband will take us out for a walk.,My husband will take us out for a walk at night,Chittagong,True
+আর ফসন্দ অয় এইল্লে ফোয়া আর বাবা মায়ের ফসন্দ ন অয়,Chittagong,0.9987,"I don't like boys like this anymore, and my parents don't like it.",The boy I like is not liked by my parents,Chittagong,True
+আর ভাই মাইয়া ফোয়ারফোয়ারিত যোগাযগ গরে দে,Chittagong,0.9987,My brother is dating the girl.,My brother contacted the girl yesterday,Chittagong,True
+আর ফুরা লাত জাগিয়েরে মাইয়াফোয়ার ফোয়ারিত হতা হয় দে,Chittagong,0.9987,My whole body is sitting and talking to girls,My friend stays up all night talking to girls,Chittagong,True
+আই ক্লাসর বেয়াক ফোয়ারিত মিশ্তাম,Chittagong,0.9987,I mixed up with all the boys in the class,I got along with all the boys in the class,Chittagong,True
+এই তিন বছরর শিশু ইবার দোষ হন্ডে?,Chittagong,0.9987,What is the fault of this three-year-old child?,Where is the fault of this three-year-old child?,Chittagong,True
+আর বন্ধু তারা খুব মেধাবি,Chittagong,0.8793,My friends are very talented.,All my friends are very talented,Chittagong,True
+অনে খুব সুন্দর গরি হতা হন,Chittagong,0.9987,You speak very nicely.,You speak very nicely,Chittagong,True
+তোয়ার খুব সুন্দর সুন্দর শবি সাইয়েরে আর খুব আনন্দ ফাইয়ি,Chittagong,0.9987,I was very happy to see your very beautiful pictures,I am very happy to see your beautiful pictures,Chittagong,True
+মাইয়াফোয়া বিয়া গরার লাই ভদ্র ফোয়া খুজের,Chittagong,0.9987,Girls are looking for decent boys for marriage.,Girls find decent boys to marry,Chittagong,True
+বাস্তব জীবনত বিয়ার ফরদ্দি ঝগরা শুরু অয় দে,Chittagong,0.9987,Quarrels start after marriage in real life,In real life quarrels start only after marriage,Chittagong,True
+"যতদিন এই দুনিয়াত থাইক্কুম, তোয়ারে মনত রাইক্ষুম",Chittagong,0.9973,"As long as I live in this world, I will remember you.","As long as I live in this world, I will remember you",Chittagong,True
+একবার তোয়ার হাত্তান দরিলে হোনদিন নোছাইজ্জুম,Chittagong,0.9984,"Once I hold your hand, I will never let go.","Once I get hold of you, I will never let go",Chittagong,True
+তোয়ার চুল ফড়ার সমইস্যা ইবা লইয়েরে ডাক্তারর হাসে জন ফরিব,Chittagong,0.9987,You need to see a doctor about your hair loss problem.,You should go to the doctor about this hair loss problem,Chittagong,True
+ভালা মানুষ এই দুনিয়াত বেহসি দিন ন বাসে,Chittagong,0.9979,Good people don't live long in this world.,Good people don't live long in this world,Chittagong,True
+মরতফোয়া ইব ছুটির দিনত হলেজত যায়,Chittagong,0.9987,The boy goes to college on holidays,The boy goes to college even on holidays,Chittagong,True
+তোয়ার ভাই ছোড ইবার জন্মদিন হত্তে?,Chittagong,0.9981,When is your younger brother's birthday?,When is your younger brother's birthday?,Chittagong,True
+অনে কি আরে এক্কান গান গাই ফুনাইত্তারিবান?,Chittagong,0.9985,Can you sing me a song?,Can you sing me a song?,Chittagong,True
+তুই কি তোয়ার ভুল বুঝিত্তাইজ্জ না?,Chittagong,0.972,Don't you understand your mistake?,Did you realize your mistake?,Chittagong,True
+তুই কি আর লাই এক্কান গান লিখিত্তারিবানা?,Chittagong,0.9864,Can you write a song for me?,Can you write a song for me?,Chittagong,True
+আর বন্ধু তারা সকালত ফুটবল খেলা হাইত যায়,Chittagong,0.9979,My friends go to play football in the morning.,My friends go to the field to play football in the morning,Chittagong,True
+তোয়ার বয়স হত?,Chittagong,0.8392,How old are you?,how old are you,Chittagong,True
+তুই কি সকালত উদিয়েররে চা হাইবা না?,Chittagong,0.9987,Will you have tea in the morning?,Do you get up in the morning and eat tea?,Chittagong,True
+অনে এক্কানা ইক্কা আইত্তারিবান না?,Chittagong,0.9984,Can you come for a minute?,Can you come this way?,Chittagong,True
+তোয়ার ফরিক্ষা হত্তে?,Chittagong,0.9954,When is your exam?,When is your exam?,Chittagong,True
+অনেরে ছাড়া আর বান্ধুবি ভালো নাই দে,Chittagong,0.9985,My friend is not well without you.,My girlfriend is not good without you,Chittagong,True
+অনে কি চন্না আই এডেত্তুন চলি জাই?,Chittagong,0.9986,Do you know I am leaving here?,Do you want me to leave here?,Chittagong,True
+অনে কি এই বিয়াত রাজি অইয়ন?,Chittagong,0.9975,Have you agreed to this marriage?,Have you agreed to this marriage?,Chittagong,True
+যেই মাইয়া ফোয়া বেশি হতা হয় তারে আই ফসন্দ ন গরি,Chittagong,0.9987,I don't like girls who talk too much.,I don't like the girls who talk too much,Chittagong,True
+ফোয়া ইবাা বহুত হতা হয়,Chittagong,0.9987,The boy talks a lot,The boy talks too much,Chittagong,True
+অনে আজিয়া সকালত চা ন হাই,Chittagong,0.9987,You haven't had tea this morning.,You didn't have tea this morning,Chittagong,True
+আই আর বন্ধুর সব হতা খুবই মনজগ দিয়েরে হুনি,Chittagong,0.9964,I listen to all my friends' words very attentively,I listen very carefully to everything my mother says,Chittagong,True
+লোক ইবা তার বউওর গাত আত তুলে,Chittagong,0.9986,The man raised his hand against his wife.,The man put his hand on his wife,Chittagong,True
+তোয়ার কি লোক দেখানো শেষ অইয়েনা?,Noakhali,0.9476,Isn't your show finished?,Are you done showing people?,Chittagong,False
+আর বউ আরেে হোন দিনও গুতো মারি হতা ন হয়,Chittagong,0.9982,My wife never touches me.,My wife never scolded me,Chittagong,True
+তুই একজন ভালো মাইয়াফোয়া,Chittagong,0.9949,You are a good girl.,You are a good girl,Chittagong,True
+তোয়ারে জর গরি বিয়া দিয়ি,Chittagong,0.9987,I got you married early.,You were forced into marriage,Chittagong,True
+তিনি দুই বেলা ভাত হাইতো ন ফারে,Chittagong,0.9976,He cannot eat rice for two meals.,He cannot eat rice for two meals,Chittagong,True
+তোয়ার ফাশত থাকিলে আই হলফনার চাইতেও বেশি সুখী,Chittagong,0.9614,I am happier with you than I could imagine,I am happier than I can imagine when I am by your side,Chittagong,True
+আই কুব জস মেকআপ গইজ্জি,Chittagong,0.9987,I did very good makeup,I wear a lot of makeup,Chittagong,True
+"অন্বেও কিছু হন ন লাগে, অনে এনেই আর মনর হতা বুঝি ফেলান",Chittagong,0.9987,"You don't even need to say anything, that's how you understood my feelings","You don't need to say anything, you already understand what I mean",Chittagong,True
+তুই আর কাসত ধরা ফরিবার ফর ফরকিয়া গরিবার হতা স্বীকার ন গরর,Chittagong,0.9987,You don't admit to having problems after being caught in my case,You are not admitting to adultery even after being caught by me,Chittagong,True
+তোয়ার ছোড ভআই ইবা আগত নেশাত আসক্ত আসিল,Chittagong,0.9988,Your younger brother used to be addicted to drugs.,Your younger brother was addicted to drugs before,Chittagong,True
+আই আর আর ছোড বইন  ইবা আজিয়া হালামনির বাসাত ঘুইরত জাইব দে,Chittagong,0.9987,My younger sister and I are going to visit Khaleemani's house today.,Me and my younger sister will visit Khalamuni's house today,Chittagong,True
+তুইকি নাম্মান হাইয়না?,Chittagong,0.99,Did you eat the mango?,Did you eat the mango?,Chittagong,True
+অনে আরেে দয়া গরি বিশ্বাস গরন,Chittagong,0.9987,Please believe me.,Please believe me,Chittagong,True
+ছোড শিশু ইবা অসুস্ত অই ফইজ্জে,Chittagong,0.9986,The little child is sick.,The little child is sick,Chittagong,True
+তুই কি আরলাই অফেক্ষা গরিত্তারি বানা?,Chittagong,0.9985,Can you wait for me?,can you wait for me,Chittagong,True
+তুই আর হাসত ক্ষমা চো,Chittagong,0.9838,Apologize to me,You apologize to me,Chittagong,True
+তোয়ার মাথা ব্যাথা গইজ্জ?,Chittagong,0.9976,Do you have a headache?,Do you have a headache?,Chittagong,True
+আর আত হরচর টেয়া আর আব্বু দেয়,Chittagong,0.7663,My father gives me money for my job.,My father pays my expenses,Chittagong,True
+বাড়িত্তুন বিয়ার লাই আর লাই মাইয়াফোয়া দেহা শুরু গইজ্জে,Chittagong,0.9984,The girl has started seeing me for marriage from home.,She started looking for me for marriage from home,Chittagong,True
+ফোয়া ইবা আরও দুই বছর ফরও বয়া গরিবেল্লাই চায়,Chittagong,0.9987,The boy wants to get married after two more years,The boy wants to get married after two more years,Chittagong,True
+আই বেয়াক্কুনর বুঝাইয়েরে ক্লান্ত যে আর আম্মু এইল্লে কিছু গরি নাই,Chittagong,0.9987,I'm tired of explaining to everyone that my mother hasn't done anything like this.,I'm tired of explaining to everyone that my mom never did anything like that,Chittagong,True
+বাবা অশিক্ষিত এক্কান ফোয়ার ফোয়ারিত আর বিয়া দিতে চাইল,Chittagong,0.9987,My father wanted to marry me to an uneducated boy,My father wanted to marry me to an illiterate boy,Chittagong,True
+আর বাইরত ঘুইরতাম যাইবার হোন ইচ্ছা ন আসিল,Chittagong,0.9984,I had no desire to go outside.,I had no desire to go outside,Chittagong,True
+ফ্রতম মিক্কে অনেরে আই এত ভালোনোবাসিতাম,Chittagong,0.9987,I loved you so much at first,At first I didn't love you so much,Chittagong,True
+ফোয়া ইবা সপ্তাত আগদ্দি আরার ফয়ারিত দেহা গইজ্জে,Chittagong,0.9987,The boy met with us a week ago,The boy met us a week ago,Chittagong,True
+অই মাইয়াফোয়া যেনেইওক খুজি বাইর গরন ফরিব,Chittagong,0.9987,The girl must be found no matter what.,That girl has to be found anyway,Chittagong,True
+ফোয়াইবা তার ফরিবারসহ ঈদুর আগরদিন আরার ফোয়ারিত দেহা গইরতে আইসসে,Chittagong,0.9987,The boy came to visit us with his family the day before Eid.,The boy along with his family came to visit us the day before Eid,Chittagong,True
+মাইয়াফোয়া ইবা বাংলাদেশত আইয়েরে  তার ফসন্দর ফোয়ারিত বিয়া ঠিক গইজ্জি,Chittagong,0.9987,The girl came to Bangladesh and decided to marry her favorite boy,The girl came to Bangladesh and decided to marry the boy of her choice,Chittagong,True
+আরার গ্রামর বারির বহুত কুরর সা আসে দে,Chittagong,0.9987,Many chickens come to our village pond.,We have many chickens in our village house,Chittagong,True
+আর ছোড বইন ছোড ইবা বহুত বকা,Chittagong,0.9987,My younger sister is very rude.,My younger sister is very stupid,Chittagong,True
+গ্রামর বারি জাইয়েরে আই এহলা এহলা সাতার হাইট্টি,Chittagong,0.9983,"Going to the village, I was just walking around",I swam alone after going to the village,Chittagong,True
+"আর আব্বু, আম্মু, ভাই, বোন ড্রইংরুমত বই আসি দে",Chittagong,0.9984,"My father, mother, brother, sister are sitting in the drawing room","My father, mother, brother, sister are sitting in the drawing room",Chittagong,True
+আরার ঘরর স্টররুম ইবা বহুত ডর,Chittagong,0.9987,Our house is very big,The storeroom in our house is very big,Chittagong,True
+শিশু ইবা এক্কান বিড়ালর সারে আদর গরের দে,Chittagong,0.9987,The child is addressing a cat's head.,Child caressing a kitten,Chittagong,True
+আর ডর ভাই ইবা বেগুনর তরহারির ঝোল  দুইজ্জা ভাত হাইয়ে,Chittagong,0.9987,My elder brother ate two sets of rice with each curry broth.,My elder brother had eggplant curry broth with rice at noon,Chittagong,True
+আর আম্মু হদে তেতই হাইলে মাথার বুদ্ধি হমি জাইব দে,Chittagong,0.9985,My mother says that eating tamarind will reduce my intelligence.,My mom says that eating tamarind will reduce my intelligence,Chittagong,True
+গরমর দিনে লবণ দিয়েরে শশা হাইতে খুব গম লাগেদে,Chittagong,0.9977,It feels great to eat vegetables with salt on a hot day.,It is very good to eat cucumber with salt on hot days,Chittagong,True
+আর আব্বু গাত সরিষার তেল দে,Chittagong,0.9862,My father gives mustard oil to my body.,My father massaged mustard oil on his body,Chittagong,True
+আরার গ্রামর বাজারত বহুত ডর এক্কা দেশী কুরোর দোহান আসে দে,Chittagong,0.9987,There is a very large chicken shop in our village market.,There is a very big country chicken shop in our village market,Chittagong,True
+আই আইয়া শিম ভাজি দিয়েরে দুফুরত ভাত হাইয়ি,Chittagong,0.9986,I cooked rice on shimu and cooked it for lunch,Today I had fried beans and rice for lunch,Chittagong,True
+দুইদিন ধরি আর বহুত সরদি জর,Chittagong,0.9985,It took me two days and I was very nervous,I have a lot of cold and fever for two days,Chittagong,True
+আজিয়া  ইংল্যান্ডর বিশ্বকাপ ক্রিকেট হেলাত জিতি গিয়ি,Chittagong,0.9987,England won the Cricket World Cup today.,Today England won the World Cup cricket match,Chittagong,True
+তুই কি আরে এক্কা্কান গ্লাস ফানি আনি দিত্তারিবা না?,Chittagong,0.9951,Can you get me a glass of water?,Can you get me a glass of water?,Chittagong,True
+আচ্ছা হো সাই বাংলাদেশর জেলা হইয়ান?,Chittagong,0.9973,"Well, tell me, what district is this in Bangladesh?",Well tell me how many districts in Bangladesh?,Chittagong,True
+তোমার আব্বা বালা আছইন নি?,Sylhet,0.9971,Is your father well?,How is your father?,Sylhet,True
+আমার বড় বইনর আইজ মন ভালা নায়,Sylhet,0.9984,My elder sister is not feeling well today,My elder sister is not feeling well today,Sylhet,True
+তুমি কিতা মোরে এই কাজটা করাই দিতা পারবা নি?,Sylhet,0.9973,Can you let me do this?,Can you do this for me?,Sylhet,True
+তোমার মত খারাফ পুয়া মুই আর একটাও দেখছি না,Sylhet,0.9978,I haven't seen a fool like you before,I've never seen a bad boy like you,Sylhet,True
+বিয়ার লাগি মাই মুর লাগি ফুয়া খুজিরা,Sylhet,0.998,My mother is looking for a boy for marriage,Amma is looking for a boy for me for marriage,Sylhet,True
+আমার বেরাইতে অনেক ভালা লাগে,Mymensingh,0.957,I like to go out.,I like to travel a lot,Sylhet,False
+মোর ছোট ভাই বিদ্যালয় যাইতে চায় না,Sylhet,0.9911,My younger brother doesn't want to go to school.,My younger brother doesn't want to go to school,Sylhet,True
+মুই একদিন বিদ্যালয়ের মাঠো মাথা ঘোরাইয়া ফরি গেছিলাম,Sylhet,0.9985,One day I turned my head on the school grounds,I lost my head one day in the school grounds,Sylhet,True
+আফনে কিতা আমারে কোনোদিনও ভালা ফাইতা না,Sylhet,0.9984,Will you never love me?,Will you never love me?,Sylhet,True
+আমার বন্ধু যারে ভালা ফায় হে রাজশাহী থাকে,Sylhet,0.999,My friend who loves me lives in Rajshahi,The one my friend loves lives in Rajshahi,Sylhet,True
+ফুড়িটা রাজশাহী থাকি আমার বড় ভাইয়র লগে দেখা করাত আইছলা,Sylhet,0.9991,The girl came from Rajshahi to meet my elder brother,The girl came from Rajshahi to meet my elder brother,Sylhet,True
+আফনে কিতা আমারে আগে কোনোদিন দেখছিলানি,Sylhet,0.9976,Have you ever seen me before?,Have you ever seen me before?,Sylhet,True
+আফনে কিতা আমারে চিনইন নি,Sylhet,0.9989,Do you know me?,Do you recognize me?,Sylhet,True
+ফুড়িটায় তোমারে চিনতে ফারলো না,Sylhet,0.9989,The girl didn't recognize you,The girl didn't recognize you,Sylhet,True
+আমার ছোট ভাই বিদ্যালয় গিয়া বন্ধুদের লগে গল্প করইন,Sylhet,0.9977,My younger brother goes to school and talks to his friends.,My younger brother goes to school and chats with his friends,Sylhet,True
+আমার বন্ধু বিদ্যালয়ের মাঠো ফতিদিন ক্রিকেট  খেলইন,Sylhet,0.999,My friend plays cricket on the school field every day.,My friend plays cricket everyday in the school ground,Sylhet,True
+আমার স্ত্রী আমারে ভালা ফায় না,Sylhet,0.9989,My wife doesn't love me,My wife doesn't love me,Sylhet,True
+স্কুল জীবন থাকি আমার ভাইয়র লগে তোমার বোইনর প্রেম আছিল,Sylhet,0.9991,There was love between your sister and my brother in school life,Your sister was in love with my brother since school life,Sylhet,True
+তোমার হাশির কাছে আমার হকল কিছু হার মানিয়া যায়,Sylhet,0.9984,I accept all my losses to your smile,I lose everything to your smile,Sylhet,True
+তোমার চোউক দুইটা অনেক সুন্দর,Sylhet,0.9946,Your eyes are very beautiful,Your eyes are very beautiful,Sylhet,True
+তোমার লগে অনেক দিন পর দেখা,Sylhet,0.9204,It's been a long time since we met.,See you after a long time,Sylhet,True
+ফুয়াটা বিদোশো গিয়া ফড়ালেখা করার স্বপ্ন দেখে,Sylhet,0.9986,The boy dreams of going to Vidosh and studying,The boy dreams of studying abroad,Sylhet,True
+তোমার লগে মাতিয়া আমার অনেক ভালা লাগছে,Sylhet,0.9988,It was very nice talking to you.,I enjoyed talking with you,Sylhet,True
+তোমার বন্ধুর লগে পরিচত হইয়া ভালা লাগলো,Sylhet,0.9894,It was nice meeting your friend.,Nice to meet your friend,Sylhet,True
+লোকটা কিছুদিন আগে বিয়া করছইন,Sylhet,0.9985,The man got married a few days ago.,The man got married a few days ago,Sylhet,True
+বেশি কিছু বলার আগেই আবেগে চোউক এর ফানি চলে আইতেছে,Noakhali,0.4443,"Before I can say much, Chuuk's water is flowing in emotion","Before saying more, tears are coming to the eyes",Sylhet,False
+একজন বেডি মারা গেছইন,Sylhet,0.9988,A body is dead,A woman died,Sylhet,True
+আফনি এত গরীব আগে কেনে কইলা না,Sylhet,0.9989,Why didn't you say you were so poor before?,Why didn't you tell me earlier that you are so poor,Sylhet,True
+আমার আম্মা আমাকে হকলের সামনে মারতে মারতে বাসাত নিয়া আইছে,Sylhet,0.9981,My mother brought me home to beat me in front of everyone,My mom brought me home beating me in front of everyone,Sylhet,True
+আফনি কিতা জানেন এখানে অনেক ফুয়াইন কমেন্ট ফরাত আইবা,Sylhet,0.999,Do you know that there will be many boy comments here?,Do you know that many boys will come here to read comments,Sylhet,True
+আমার ভালুবাসা দিয়া হারাজীবন তোমার লগে থাকতে চাই,Barisal,0.9929,I want to spend my life with you in my love,I want to be with you all my life with my love,Sylhet,False
+তোমাকে কি করে বুঝাইমু তোমারে কতটা ভালো ফাই?,Noakhali,0.8642,How can I explain how good you are?,How to tell you how much I love you?,Sylhet,False
+আফনি খুব কষ্টে নিজরে সামলে নিয়াছইন,Sylhet,0.9989,You took care of yourself very hard,You have handled yourself with great difficulty,Sylhet,True
+আমার বান্ধবী কিচ্ছু ভাবতে ফারে না আফনাকে ছাড়া,Sylhet,0.9989,My girlfriend can't think of anything without you,My girlfriend can't think of anything without you,Sylhet,True
+আমার বন্ধু কিচ্ছু লিখতে ফারে না আফনার নাম ছাড়া,Sylhet,0.9987,My friend cannot write anything without your name.,My friend can't write anything except your name,Sylhet,True
+আফনারে ভালাফাই এই কথাটি বলার বাকি,Sylhet,0.9991,I still have to say I love you.,All that is left to say is that I love you,Sylhet,True
+মুই আমার বন্ধুকে একটা লাল গোলাফ কিনিয়া উপহার দিয়াছি,Sylhet,0.9986,I bought a red rose and gave it to my friend,I bought and gifted a red rose to my friend,Sylhet,True
+"যদি তুমি আমার কাছে ফিরে আসো, তবে তাকে ছেড়ে দাও",Standard Bangla,0.9954,"If you come back to me, let her go.","If you come back to me, let him go",Sylhet,False
+আফনি যে মানুষটাকে ভালাফাইবেন তাকে যদি না বুঝবার ফারইন তাহলে আফনার এই প্রেমের কোনো অর্থ নাই,Sylhet,0.9977,"If you can't understand the person you love, then your love has no meaning",If you don't understand the person you love then your love has no meaning,Sylhet,True
+আফনার মনের মাত গুলা আমকে আজ খুলিয়া বলুন,Sylhet,0.9987,Tell me what's in your heart today,Tell me your thoughts today,Sylhet,True
+তুমি কখনোই ফারবা না অন্য কারও ভালুবাসাকে ছিনিয়া নিতে,Sylhet,0.9977,You can never take away someone else's love,You can never take away someone else's love,Sylhet,True
+তুমি জোর করে অন্যের ভালো লাগার হিতে ফারবা না,Sylhet,0.9974,You can't force it for the good of others,You can't force others to like you,Sylhet,True
+আগামীকাল সকালবেলা তাদেরকে দেখতে ফারবা,Mymensingh,0.9136,You will see them tomorrow morning.,You will see them again tomorrow morning,Sylhet,False
+আমার অনেক ভালা লাগে কালা ওই চোউখ দুইটা তোমার,Sylhet,0.9246,I really like your black two,I like those black eyes of yours,Sylhet,True
+তোমার হাজার মাতর মাঝে তোমার মনের মাত লুকাইয়া ছিল,Sylhet,0.9991,"Among your thousand words, the words of your heart were hidden",Your heart was hidden in your thousands of words,Sylhet,True
+তোমার ফড়াশোনা করিয়া কিতা অইবো যদি তুমি যারে ভালোফাও তারেই না ফাও,Sylhet,0.9989,What will happen if you don't meet the person you love after studying?,What happens to your studies if you don't find the one you love?,Sylhet,True
+মাছের বাজারে হকল আইয়া বড় মাছটক দেইখ্খার লাগি ভিড় জমাইলো,Sylhet,0.9991,Everyone came to the fish market and gathered a crowd to watch the big fish,The fish market was crowded to see the big fish,Sylhet,True
+আকাশর নীলে কোয়াইয়া যাইতে চাই তোমায় নিয়া,Sylhet,0.9969,I want to go swimming under the blue sky with you,I want to get lost in the blue sky with you,Sylhet,True
+আফনার কিতা এখনও আফনার ভালোফাওয়ার মানুষটার মাত মনে পড়ে,Sylhet,0.9988,Do you still remember the person you love?,Do you still remember your loved one?,Sylhet,True
+তুমি এক হাইনজা অফিসে থাকি বাসায় ফিরে দেখবা মুই আর নাই,Sylhet,0.988,I won't see you back home from an old office,You will come home from office one evening and find I am gone,Sylhet,True
+আমি যে মাই তাইন মুই আমার বাচ্চার মুখের দিকে তাকিয়া অনেক কিছু বুঝতে পারইন,Sylhet,0.9983,"As a mother, I can understand a lot by looking at my child's face","As a mother, I understand a lot by looking at my child's face",Sylhet,True
+ফুড়িটা একটা ভালো চাকরি করে,Sylhet,0.9989,The girl does a good job.,The girl does a good job,Sylhet,True
+এই মাসো ফুয়া তার পরিবার নিয়া ফাকানিত যাওয়ার কথা,Sylhet,0.9989,This month the boy is supposed to go to the village with his family,This month the son is supposed to travel with his family,Sylhet,True
+ফুড়িটা এই ফুয়ারে বিয়া করতে রাজি অর না,Sylhet,0.999,The girl does not agree to marry this boy.,The girl is not agreeing to marry this boy,Sylhet,True
+আমার স্বামী আমাদেরকে নিয়া রাইতর বেলা ফাকানিত বের অইবা,Sylhet,0.9987,My husband will take us out for a walk at night.,My husband will take us out for a walk at night,Sylhet,True
+আমার ফছন্দ হয় এমন ফুয়া আমার বাফ মাইয়ের ফছন্দ হয় না,Sylhet,0.9987,The boy I like doesn't like my parents,The boy I like is not liked by my parents,Sylhet,True
+আমার ভাই ফুড়িটার লগে গতকাল যোগাযোগ করে,Sylhet,0.999,My brother contacted the girl yesterday.,My brother contacted the girl yesterday,Sylhet,True
+আমার বন্ধু ফুড়িন্তর লগে সারা হারা রাইত জাগিয়া মাত মাতইন,Sylhet,0.999,My friends stay up all night talking to girls,My friend stays up all night talking to girls,Sylhet,True
+আমি ক্লাসের হকল ফুয়াদের সাথেই মিসতাম,Sylhet,0.9989,I miss all the boys in the class,I got along with all the boys in the class,Sylhet,True
+এই তিন বছরের শিশুটির দোষ কোয়াই?,Noakhali,0.9967,What is the fault of this three-year-old child?,Where is the fault of this three-year-old child?,Sylhet,False
+আমার আর আফনের  স্বপ্নটা যে কুনদিন পূরণ অইতো,Sylhet,0.7118,When will my and your dream come true?,When will your dream and mine come true?,Sylhet,True
+আমার বন্ধুরা হকল খুব মেধাবী,Sylhet,0.9987,All my friends are very talented,All my friends are very talented,Sylhet,True
+আফনে খুব সুন্দর করিয়া মাত মাতইন,Sylhet,0.9991,You speak very nicely,You speak very nicely,Sylhet,True
+তোমার সুন্দর সু্ন্দর ছবিগুলি দেখিয়া খুব আনন্দ পাইছি,Mymensingh,0.5915,I was very happy to see your beautiful pictures,I am very happy to see your beautiful pictures,Sylhet,False
+ফড়িন্তর বিয়া করার লাগি ভদ্র ফুয়া তোকাইন,Sylhet,0.9989,A noble boy is waiting for his family to get married.,Girls find decent boys to marry,Sylhet,True
+বাস্তব জীবনে বিয়ার পরইঝগরা শুরু অয়,Sylhet,0.9784,Struggles start after marriage in real life,In real life quarrels start only after marriage,Sylhet,True
+"যতদিন এই দুনিয়াতে  থাকমো, তোমারে বিতর রাখমো",Sylhet,0.9983,"As long as I live in this world, I will keep you safe","As long as I live in this world, I will remember you",Sylhet,True
+একবার তোমার হাত ধরলে আর কোনোদিনও ছাড়তাম না,Mymensingh,0.9779,Once I hold your hand I will never leave,"Once I get hold of you, I will never let go",Sylhet,False
+তোমার চুল পরার এই সমস্যা নিয়া ডাক্তারের কাছে যাইতে অইবো,Sylhet,0.9913,You have to go to the doctor for this problem with your hair,You should go to the doctor about this hair loss problem,Sylhet,True
+ভালা মানুষ এই দুনিয়াত বেশি দিন বাচে না,Noakhali,0.8041,Good people don't live long in this world,Good people don't live long in this world,Sylhet,False
+ফুয়াটা ছুটির দিনও কলেজে যায়,Sylhet,0.9987,The boy goes to college on holidays.,The boy goes to college even on holidays,Sylhet,True
+তোমাকে ছোট ভাইয়র জন্মদিন খবে?,Sylhet,0.9983,Is it your younger brother's birthday?,When is your younger brother's birthday?,Sylhet,True
+আফনে কিতা আমারে একটা গান হুনাতে পারবানি?,Sylhet,0.9925,Can you sing me a song?,Can you sing me a song?,Sylhet,True
+তুমি কিতা তোমার ভুল বুঝতর ফারছোনি?,Sylhet,0.9982,Did you understand your mistake?,Did you realize your mistake?,Sylhet,True
+তুমি কিতা আমার লাগি একটা গান লিখিয়া দিতা ফারবানি?,Sylhet,0.9947,Can you write a song for me?,Can you write a song for me?,Sylhet,True
+আমার বন্ধুইন্তে সকালে ফুটবল খেলাত মাঠো যাইন,Sylhet,0.999,My friend goes to the field to play football in the morning.,My friends go to the field to play football in the morning,Sylhet,True
+থোমার বয়স কত?,Noakhali,0.9586,How old is Thomas?,how old are you,Sylhet,False
+থুমি কিতা সকালে উঠিয়া চা খাইবায় নি?,Sylhet,0.9988,Will you get up in the morning and drink tea?,Do you get up in the morning and eat tea?,Sylhet,True
+আফনে থুরা ওদিকে আইতা ফারবা নি?,Sylhet,0.9989,Can you come a little?,Can you come this way?,Sylhet,True
+থোর ফরিক্ষা কোন সময়ে?,Sylhet,0.9988,When is the exam?,When is your exam?,Sylhet,True
+আপ্নারে ছাড়া আমার বান্ধবী ভালা নায়,Sylhet,0.9989,My girlfriend is not good without you.,My girlfriend is not good without you,Sylhet,True
+আফনে চাইন নি আমি ইন তাকি যাই গি?,Sylhet,0.999,Do you want me to go there?,Do you want me to leave here?,Sylhet,True
+আফনে এই বিয়াত রাজি নি?,Sylhet,0.9958,Do you agree to this marriage?,Have you agreed to this marriage?,Sylhet,True
+যে ফুড়িয়ে বেশি মাতে ইগুরে আমার ফছন্দ না,Sylhet,0.9988,I don't like boys who talk too much,I don't like the girls who talk too much,Sylhet,True
+ফুয়া ইগুয়ে বেশি মাতে,Sylhet,0.9984,The boy talks a lot,The boy talks too much,Sylhet,True
+আফনে আজকে চা খাওছইন নি?,Sylhet,0.9989,Have you had tea today?,You didn't have tea this morning,Sylhet,True
+আমি আমার আম্মার হক্কল কথা ধুন দরিয়া হুনি,Sylhet,0.998,I listen to everything my mother says,I listen very carefully to everything my mother says,Sylhet,True
+বেটায় তার বউর গাত হাত তুলছে,Sylhet,0.9938,The boy raised his hand against his wife.,The man put his hand on his wife,Sylhet,True
+তোমার কিতা মানুষ দেখানি শেষ নি?,Sylhet,0.9984,Have you finished showing people?,Are you done showing people?,Sylhet,True
+আমার বউয়ে আমারে কোনদিন খুছাইয়া মাতছে না,Sylhet,0.9988,My wife has never spoken to me at all.,My wife never scolded me,Sylhet,True
+তুমি একটা ভালা ফুড়ি,Sylhet,0.999,You are a good girl.,You are a good girl,Sylhet,True
+তোমারে জোড় করিয়া বিয়া দেওয়া অইছিল,Sylhet,0.9991,You were married together,You were forced into marriage,Sylhet,True
+তাইন দুই বেলা ভাত খাইতা ফারইন না,Sylhet,0.9974,He can't eat rice at two o'clock.,He cannot eat rice for two meals,Sylhet,True
+তুমি খান্দাত থাকলে স্বপ্নের থাকি বেশি সুখি থাকি,Sylhet,0.9976,"If you are hungry, you will be happier than in your dreams.",I am happier than I can imagine when I am by your side,Sylhet,True
+আফনে আমারে আর কত অবাক করতা?,Sylhet,0.9919,How much more will you surprise me?,How much more will you surprise me?,Sylhet,True
+আমি খুব ভালা সাজাই,Sylhet,0.9843,I decorate very well,I wear a lot of makeup,Sylhet,True
+"আফনারে কুন্তা কওয়া লাগে না, আফনে এমনই আমার হক্কলতা বুজুইন",Sylhet,0.9985,"You don't need to say anything, that's how you understand everything about me","You don't need to say anything, you already understand what I mean",Sylhet,True
+তুমি আমার কাছে দরা পড়িয়াও অন্য ফুরির পিছে পরকীয়াত সিকার কররায় না,Sylhet,0.999,"Even if you stay with me, you don't hunt foreigners behind other girls",You are not admitting to adultery even after being caught by me,Sylhet,True
+তোমার ছুট ভাই ইগুয়ে আগে নেশা করতো,Sylhet,0.9988,Your younger brother used to be addicted.,Your younger brother was addicted to drugs before,Sylhet,True
+আমি আর আমার ছুট বইন আজকে খালাম্মার বাসাত ঘুরাত যাইরাম,Sylhet,0.9965,My younger sister and I will go for a walk to my cousin's house today,Me and my younger sister will visit Khalamuni's house today,Sylhet,True
+তুমি কিতা আম খাইছলায় নি?,Sylhet,0.999,Did you eat mango?,did you eat the mango,Sylhet,True
+আফনে আমারে দয়া করিয়া বিশ্বাস করওক্কা,Sylhet,0.999,Please trust me.,Please believe me,Sylhet,True
+ছুট বাইচ্চা অসুখ অইগেসে,Sylhet,0.9974,The little child is sick.,The little child is sick,Sylhet,True
+তুমি কিতা আমার লাগি বার চাইতায় ফারবায়,Sylhet,0.9989,Can you ask me again?,can you wait for me,Sylhet,True
+তুমি আমার কাছে মাফ চাও,Standard Bangla,0.9716,You're asking me to forgive you.,You apologize to me,Sylhet,False
+তোমার কিতা মাথাত বেদনা করের নি?,Sylhet,0.9991,Do you have a headache?,Do you have a headache?,Sylhet,True
+আমার হাত খরচ আমার আব্বুয়ে দেইন,Sylhet,0.9879,My hand is paid by my father,My father pays my expenses,Sylhet,True
+বাড়িত আমার বিয়ার লাগি  ফুরি দেখা অর,Sylhet,0.999,I met a girl at my wedding at home,She started looking for me for marriage from home,Sylhet,True
+ফুয়া ইগুয়ে দুই বছর পরে বিয়া করতো চায়,Sylhet,0.9987,The boy wants to get married after two years,The boy wants to get married after two more years,Sylhet,True
+আমি হক্কলরে বুজাইয়া হেরান যে আম্মুয়ে কোন্তা করছইন না,Sylhet,0.9989,I'm telling everyone that mom didn't say anything,I'm tired of explaining to everyone that my mom never did anything like that,Sylhet,True
+আব্বুয়ে বখলম ফুয়ার লগে বিয়া দিতা চাইছলা,Sylhet,0.9981,Did my father want to get married to various flowers?,My father wanted to marry me to an illiterate boy,Sylhet,True
+আমার বাইরে ঘুরার কোন ইচ্চা আসিল না,Sylhet,0.8538,There was no desire to go outside,I had no desire to go outside,Sylhet,True
+ফতম দিকে আফনারে আমি ভালা ফাইতাম না,Sylhet,0.999,I don't love you on the sidewalk,At first I didn't love you so much,Sylhet,True
+ফুয়া ইগুর ৭ দিন আগে দেখা অইছিল,Sylhet,0.9989,The boy met 7 days ago,The boy met us a week ago,Sylhet,True
+অউ ফুরি ইগুরে যেলা অউক তুকাইয়া বার করতে অইবো,Sylhet,0.9987,This girl needs to be turned around like this.,That girl has to be found anyway,Sylhet,True
+ফুয়া ইগুয়ে তার ফেমিলিসহ ঈদের আগের দিন আমরার লগে দেখা করাত আইছিল,Sylhet,0.9988,The boy came to meet us with his family the day before Eid,The boy along with his family came to visit us the day before Eid,Sylhet,True
+ফুড়িটা বাংলাদেশো আইয়া তার ফছন্দর ফুয়ার লগে বিয়া ঠিক করছইন,Sylhet,0.9988,The girl came to Bangladesh and arranged marriage with her favorite son,The girl came to Bangladesh and decided to marry the boy of her choice,Sylhet,True
+আমার ছোট ভাই উরি তরকারি দিয়া ভাত খাইতে ভালাফায়,Sylhet,0.9991,My younger brother loves to eat rice with curry curry,My younger brother loves to eat rice with sim's bean curry,Sylhet,True
+আমাদের গেরামের বাড়িতে বহুত  মুরগির বাচ্চা আছে,Sylhet,0.9903,There are many chickens in our village house,We have many chickens in our village house,Sylhet,True
+আমার ছোট বোইন খুবই বোকা,Sylhet,0.8879,My younger sister is very stupid.,My younger sister is very stupid,Sylhet,True
+গেরামের বারি গিয়া মুই একা একা হাতার কেটেছি,Sylhet,0.9975,"Going to the village village village, I cut my hand alone",I swam alone after going to the village,Sylhet,True
+"আমার আব্বা,  আম্মা,  ভাই, বোন ড্রয়িংরুমে বইয়া আছে",Mymensingh,0.9489,"My father, mother, brother, sister are in the dressing room.","My father, mother, brother, sister are sitting in the drawing room",Sylhet,False
+আমাদের ঘরের স্টোররুমটা বহুত বড়,Sylhet,0.9986,The storage room in our house is very big,The storeroom in our house is very big,Sylhet,True
+শিশুটা একটা বিড়াল ছানাকে আদর করছে,Standard Bangla,0.9966,The baby's cheering for a kitten.,Child caressing a kitten,Sylhet,False
+আমার বড় ভাই বেগুন তরকারির ঝোল দিয়া  দুপুরে ভাত খাইছে,Sylhet,0.9765,My elder brother ate rice with blueberry curry soup in the afternoon.,My elder brother had eggplant curry broth with rice at noon,Sylhet,True
+আমার আব্বা লাউ দিয়া ইচা মাছর ঝোল  কুব ফছন্দ করুইন,Sylhet,0.9989,My father loves shrimp with shrimp,My father likes the shrimp broth with gourd,Sylhet,True
+আমার আম্মা কইরা যে তেতুল খাইয়া আমার বুদ্ধি কমি যাইবো,Sylhet,0.9987,My mother says that eating oils will make me lose my mind,My mom says that eating tamarind will reduce my intelligence,Sylhet,True
+গরমের দিনো নোন দিয়া শশা খাইতে যে ভালা লাগে,Sylhet,0.9987,It is very nice to eat pomegranate on a hot day,It is very good to eat cucumber with salt on hot days,Sylhet,True
+আমার আব্বা গতরো সরিষার তেল মালিশ করইন,Sylhet,0.9981,My father used to lubricate mustard oil yesterday.,My father massaged mustard oil on his body,Sylhet,True
+আমাদের গেরামের বাজারে বহুত বড় একটা দেশি মোরগির দোকান আছে,Sylhet,0.9986,There is a very large local chicken shop in our village market,There is a very big country chicken shop in our village market,Sylhet,True
+আমি আইজকে উরি ভাজি দিয়া মাধানে ভাত খাইছি,Sylhet,0.9973,I ate rice with shredded rice and fries today,Today I had fried beans and rice for lunch,Sylhet,True
+দুইদিন ধরিয়া আমার অনেক সর্দি- তাফ,Sylhet,0.999,I have had a very cold and heat for two days,I have a lot of cold and fever for two days,Sylhet,True
+আমরা সবাই একসাথে খেল দেখছিলাম,Standard Bangla,0.9698,We were all watching the game together.,We were all watching the game together,Sylhet,False
+আজকে ইংল্যান্ড বিশ্বকাপ ক্রিকেট খেলাত জিতি গেছে,Sylhet,0.985,England won the Cricket World Cup today.,Today England won the World Cup cricket match,Sylhet,True
+তুমি কি আমারে এক গ্লাস ফানি এনে দিতায় ফারবা?,Sylhet,0.9984,Can you bring me a glass of water?,Can you get me a glass of water?,Sylhet,True
+আইচ্চা কও দেখি বাঙলাদেশো কয়টা জেলা?,Sylhet,0.9962,"Tell me, how many districts are there in Bangladesh?",Well tell me how many districts in Bangladesh?,Sylhet,True
+তোর আব্বা কেক্কা আছে?,Noakhali,0.9907,How is your father?,How is your father?,Noakhali,True
+আর বড় আফার আইজ্জা মন ভালা নাই,Noakhali,0.9972,My elder sister is not feeling well today,My elder sister is not feeling well today,Noakhali,True
+তুই কি আরে এই কাম আন করি দিতা হাইরবা নি?,Noakhali,0.9975,Can you get me this job?,Can you do this for me?,Noakhali,True
+তোর মতো শয়তান হোলা আই এইগগাও দেই নো,Noakhali,0.9978,"I don't see anything like you, you devilish boy.",I've never seen a bad boy like you,Noakhali,True
+বিয়ার লাই আর আম্মা আর লাই হোলা টোগার,Noakhali,0.9974,My mother and son are getting married,Amma is looking for a boy for me for marriage,Noakhali,True
+আর ঘুইত্তে মেলা ভালা লাগে,Noakhali,0.9957,I really enjoy driving.,I like to travel a lot,Noakhali,True
+আর ভাই ছোডগা ইস্কুলে যাইতো চায় নাহ,Noakhali,0.9981,My younger brother does not want to go to school.,My younger brother doesn't want to go to school,Noakhali,True
+আই একদিন ইস্কুলের মাঠে মাতা ঘুরি হরি গেছিলাম,Noakhali,0.9969,One day I was walking around the school grounds,I lost my head one day in the school grounds,Noakhali,True
+আন্নে কি আরে কোনদিন ভালা বাইসতেন নো?,Noakhali,0.9973,Will you ever love me?,Will you never love me?,Noakhali,True
+আর বন্ধু জিগারে ভালোবাসে হিগা রাজশাহী থায়,Noakhali,0.9972,My friend lives in Rajshahi and loves him.,The one my friend loves lives in Rajshahi,Noakhali,True
+মাইয়াগা রাজশাহীর তুন আর ভাইয়ার লগে দেয়া কইরতো আইছিলো,Noakhali,0.9976,The girl came from Rajshahi to meet my brother,The girl came from Rajshahi to meet my elder brother,Noakhali,True
+আন্নে কি আরে আগে কোনদিন দেখছেন নি?,Noakhali,0.9973,Have you ever seen me before?,Have you ever seen me before?,Noakhali,True
+আন্নে কি আরে চিনতেন হাইরছেন নি?,Noakhali,0.9974,Do you recognize me?,Do you recognize me?,Noakhali,True
+মাইয়াগা আরে চিনতো হারে নো,Noakhali,0.9977,The girl doesn't recognize me.,The girl didn't recognize you,Noakhali,True
+আর ভাই ইস্কুলে যাই বন্ধুগো লগে আড্ডা দেয়,Noakhali,0.9969,My brother goes to school and hangs out with friends.,My younger brother goes to school and chats with his friends,Noakhali,True
+আর বন্ধু ইস্কুলের মাঠে আই হত্তিদিন ব্যাড বল খেলে,Noakhali,0.9976,My friend plays cricket on the school field every day.,My friend plays cricket everyday in the school ground,Noakhali,True
+আর বউ আরে ভালোবাসে নাহ,Noakhali,0.9882,My wife doesn't love me,My wife doesn't love me,Noakhali,True
+ইস্কুলে থাক্ততেই আর ভাইয়ের লগে তোর বইনের সম্পর্ক আছিলো,Noakhali,0.9973,Your sister had a relationship with my brother while in school.,Your sister was in love with my brother since school life,Noakhali,True
+তোয়ার হাসির কাছে আর বেক কিছু এ হার মানি যায়,Noakhali,0.9971,Everything else agrees with your smile,I lose everything to your smile,Noakhali,True
+তোর চোখ দুগা মেলা সুন্দর,Noakhali,0.9978,Your eyes are very beautiful,Your eyes are very beautiful,Noakhali,True
+তোর লগে মেলাদিন হরে দেয়া,Noakhali,0.8693,After a long time with you,See you after a long time,Noakhali,True
+হোলাগা বিদেশ যাই হরালেয়া কইরবার স্বপ্ন দেয়ের,Noakhali,0.998,The boy dreams of going abroad to study.,The boy dreams of studying abroad,Noakhali,True
+তোর লগে কতা কই আর মেলা ভাল্লাইগছে,Noakhali,0.9975,It was very nice talking to you.,I enjoyed talking with you,Noakhali,True
+তোর বন্ধুর লগে হরিচিত ওই ভাল্লাইগছে,Noakhali,0.9981,Nice meeting your friend,Nice to meet your friend,Noakhali,True
+বেডাগা কদিন আগে বিয়া কইচ্ছেন,Noakhali,0.9978,The girl got married a few days ago,The man got married a few days ago,Noakhali,True
+বেক কতা কইবার আগেদি আবেগে চোকে দি হানি চলি আইছে,Noakhali,0.9976,Tears came with emotion before everything was said,"Before saying more, tears are coming to the eyes",Noakhali,True
+বেডি ওগগা মরি গেছে,Noakhali,0.9917,A woman has died,A woman died,Noakhali,True
+আন্নে এতো গরিব আগে কিল্লাই কন নো,Noakhali,0.9948,Why didn't you say you were so poor before?,Why didn't you tell me earlier that you are so poor,Noakhali,True
+আর আম্মা আরে বেকের সামনে মাইরতে মাইরতে বাইত লই আইছে,Noakhali,0.9975,My mother brought me home beating me in front of everyone,My mom brought me home beating me in front of everyone,Noakhali,True
+আন্নে কি জানেন নি ইয়ানে মেলা হোলা আইবো কমেন্ট কইরতো,Noakhali,0.9978,Do you know that many boys will come and comment here?,Do you know that many boys will come here to read comments,Noakhali,True
+আর ভালোবাসা দি আই সারাজীবন তোর লগে থাইক্তাম চাই,Noakhali,0.9907,"With my love, I want to be with you forever.",I want to be with you all my life with my love,Noakhali,True
+তোরে কেন্নে বুঝাইতাম তরে আই কত ভালোবাসি,Noakhali,0.9967,How can I explain how much I love you?,How to tell you how much I love you?,Noakhali,True
+আন্নে মেলা কস্টে নিজেরে হামালি লইছেন,Noakhali,0.9979,You have assaulted yourself at a very difficult time.,You have handled yourself with great difficulty,Noakhali,True
+আর বান্ধুবি কিছু ভাইবদো হারে না আরে হালাই,Noakhali,0.9955,My friend can't find anything to say to me,My girlfriend can't think of anything without you,Noakhali,True
+আর বন্ধু কিছু লিকতো হারে না আরে নাম হালাই,Noakhali,0.997,My friend can't write anything without naming me.,My friend can't write anything except your name,Noakhali,True
+আন্নেরে ভালোবাসি ইয়ান কন বাকি,Noakhali,0.9972,"Love you, this is all that remains.",All that is left to say is that I love you,Noakhali,True
+আর বন্ধুরে ওগগা লাল গোলাপ কিনি উপহার দিছি,Noakhali,0.9959,I bought a red rose as a gift for my friend,I bought and gifted a red rose to my friend,Noakhali,True
+যদি তুই আর কাছে হিরি আইয়ো তই হিগারে ছারি দো,Noakhali,0.9966,"If you come to see me, you will cut him off.","If you come back to me, let him go",Noakhali,True
+আন্নে যে মানুষগারে ভালোবাসবেন হিগারে যদি আন্নে না বুঝতেন হারেন তাইলে আন্নের এই প্রেমের কোন অর্থই নাই,Noakhali,0.9975,"If you can't understand the person you love, then your love has no meaning.",If you don't understand the person you love then your love has no meaning,Noakhali,True
+আন্নের মনের কথসা এগিন আরে আইজ্জা খুলি কন,Noakhali,0.9979,Open your heart to me today,Tell me your thoughts today,Noakhali,True
+তুই কাখনই হাইত্তাম্নো আন্য কারর ভালোবাসারে ছিনাই লইতা,Noakhali,0.998,You will never lose someone else's love,You can never take away someone else's love,Noakhali,True
+তুই জোর করি অন্যের ভালো লাগার মানুষ অইতা হাইত্তা নো,Noakhali,0.9978,You can't force yourself to be someone else's favorite person,You can't force others to like you,Noakhali,True
+আগোমি কাইল্লা বেয়ানে হেতের গরে দেখতে হাইরবেন,Noakhali,0.9846,You will see him tomorrow morning,You will see them again tomorrow morning,Noakhali,True
+আর অনেক ভালা লাগে কালো অই দুইয়ান চোখ তোওার,Noakhali,0.9972,I really like both of your eyes to be black,I like those black eyes of yours,Noakhali,True
+তোয়াার হাজার কথার মাঝে তোয়ার মনের কথা লুকাই আসে,Noakhali,0.9966,"Amidst your thousand words, the words of your heart are hidden",Your heart was hidden in your thousands of words,Noakhali,True
+তোয়ার হরালেয়া করি কিয়া অইবো যদি তুই যারে ভালোবাসো হেতারেই নাহাও,Noakhali,0.9975,What will happen if you do not love the person you love?,What happens to your studies if you don't find the one you love?,Noakhali,True
+মাছের বাজারে বেঁকে বড় মাছ দেখবার লাই ভিড় কইচ্ছে,Noakhali,0.9978,Everyone is gathering at the fish market to see big fish,The fish market was crowded to see the big fish,Noakhali,True
+আকাশের নীলে আরাই যাইতাম চাই তোয়ারে লই,Noakhali,0.9968,I want to fly under the blue sky with you,I want to get lost in the blue sky with you,Noakhali,True
+আন্নের কি অনো আর ভালোবাসার মানুষগার কতা মনে হড়ে,Noakhali,0.9978,Do you still remember your loved one?,Do you still remember your loved one?,Noakhali,True
+তুই এক সন্ধ্যায় অফিসের তুন বাসাত আই দেইকবা আই আর নাই,Noakhali,0.9636,You will come home from the office one evening and see that I am gone,You will come home from office one evening and find I am gone,Noakhali,True
+আইয়ো দেন বাইচ্চার মা এইডার লাই আই বাইচ্চার মুকে রেনি মেলা কিছু বুইঝদাম হারি,Noakhali,0.9971,"Let me show the child's mother, that's why I can understand a lot of things from the child's mouth","As a mother, I understand a lot by looking at my child's face",Noakhali,True
+মাইয়াগা এক্কান ভালা চাকরি করে,Noakhali,0.9975,The girl has a good job.,The girl does a good job,Noakhali,True
+এই মাসে হোলার হেতের পরিবার লই ঘুইত্তে যাইবার কতা,Noakhali,0.9977,The boy is going for a walk with his family this month.,This month the son is supposed to travel with his family,Noakhali,True
+মাইয়াগা হোলাগারে বিয়া কইরতো রাজি ওয়ের না,Noakhali,0.9976,The girl does not agree to marry the boy,The girl is not agreeing to marry this boy,Noakhali,True
+আর স্বামী আরে লই রাইতকা ঘুইত্তো বারিবো,Noakhali,0.9923,My husband will take me for a walk at night.,My husband will take us out for a walk at night,Noakhali,True
+আর হছন্দ ওয় এক্কা হোলা আর বাপ মার হছন্দ ওয় নাহ,Noakhali,0.9965,"My favorite is son, and my parents don't like son.",The boy I like is not liked by my parents,Noakhali,True
+আর ভাই কাইল্গা মাইয়াগার লগে যোগাযোগ  কইরছে,Noakhali,0.9977,My brother contacted the girl yesterday.,My brother contacted the girl yesterday,Noakhali,True
+আর বন্ধু হারা রাইত জাগি মাইয়াগমাইয়াগো লগে কতা কয়,Noakhali,0.9769,My friend stays up all night talking to girls.,My friend stays up all night talking to girls,Noakhali,True
+আই ক্লাসের বেজ্ঞুন হোলার লগেই মিশতাম,Noakhali,0.9976,I mixed with all the boys in the class,I got along with all the boys in the class,Noakhali,True
+এই তিন বছরে বাইচ্চা ইয়ার দোষ কন্ডে?,Noakhali,0.9972,Where is the fault of the child in these three years?,Where is the fault of this three-year-old child?,Noakhali,True
+আর বন্ধুরগ লগে বেজ্ঞুন খুব মেধাবি,Noakhali,0.9962,Everyone with my friends is very talented,All my friends are very talented,Noakhali,True
+আন্নে খুব সুন্দর করি কথা কন,Noakhali,0.9976,You speak very nicely.,You speak very nicely,Noakhali,True
+তোওয়ার সুন্দর সুন্দর ছবিগুন দেখি খুব আনন্দ হাইসি,Noakhali,0.9973,I was very happy to see your beautiful pictures,I am very happy to see your beautiful pictures,Noakhali,True
+মাইয়ারা বিয়া করার লাই ভদ্র হোলা খুজে,Noakhali,0.9968,Girls are looking for decent boys to marry.,Girls find decent boys to marry,Noakhali,True
+বাস্তব জীবনে বিয়ার হরেই কইজ্জা শুরু অয়,Noakhali,0.998,"In real life, trouble begins after marriage",In real life quarrels start only after marriage,Noakhali,True
+"যতদিন এই দুনিয়াতে থাইকব,  তোওয়ারে মনে রাইখব",Noakhali,0.9973,"As long as I live in this world, I will remember you.","As long as I live in this world, I will remember you",Noakhali,True
+একবার  তোওয়ার হাট ধইরলে আর কোনদিনও ছাইড়তাইন্ন,Noakhali,0.9977,"Once you hold your hand, you will never let go","Once I get hold of you, I will never let go",Noakhali,True
+তোওয়ার চুল হরার এই সমস্যা লই ডাক্তারের কাছে যাইত অইব,Noakhali,0.9978,You have to go to the doctor about this problem of losing your hair,You should go to the doctor about this hair loss problem,Noakhali,True
+ভালা মানুষ এই দুনিয়াতে বেশি দিন বাচে না,Mymensingh,0.5809,Good people don't live long in this world,Good people don't live long in this world,Noakhali,False
+হোলাগা ছুডির দিনেও কলেজে যায়,Noakhali,0.9974,The boy goes to college even on holidays.,The boy goes to college even on holidays,Noakhali,True
+তোর ছোড ভাইয়ের জন্মদিন কবে?,Noakhali,0.5996,When is your younger brother's birthday?,When is your younger brother's birthday?,Noakhali,True
+আন্নে কি আরে এইগগা গান হুনাইতে হাইরবেন নি?,Noakhali,0.9979,Can you listen to this song for me?,Can you sing me a song?,Noakhali,True
+তুই কি তোর ভুল বুঝইদা হাইরছো নি?,Noakhali,0.9979,Did you understand your mistake?,Did you realize your mistake?,Noakhali,True
+তুই কি আরে লাই এক্কান গান লিখতে হাইরবানে?,Noakhali,0.995,Can you write a song for me?,Can you write a song for me?,Noakhali,True
+আর বন্ধুরা বেয়ানে ফুটবল খেইলত মাঠে যায়,Noakhali,0.9963,My friends go to the field to play football in the morning.,My friends go to the field to play football in the morning,Noakhali,True
+তোর বয়স কদ্দুর?,Noakhali,0.7132,How old are you?,how old are you,Noakhali,True
+তুই কি বেয়ানে উঠি চা খাইবা নে?,Noakhali,0.6669,Will you get up in the morning for tea?,Do you get up in the morning and eat tea?,Noakhali,True
+আন্নে এক্কেনা এমুই আইত হাইরবেন?,Noakhali,0.9977,How can you come here?,Can you come this way?,Noakhali,True
+তোর হরিক্ষা কবে?,Noakhali,0.989,When is your exam?,When is your exam?,Noakhali,True
+আন্নেরে ছাড়া আর বান্ধুবি ভালা নাই,Noakhali,0.9975,My friend is not well without you,My girlfriend is not good without you,Noakhali,True
+আন্নে কি চান আই এডেত্তুন চলি যাই?,Noakhali,0.9015,Do you want me to leave from here?,Do you want me to leave here?,Noakhali,True
+আন্নে কি এই বিয়াতে রাজি অইসেন?,Noakhali,0.9979,Do you agree to this marriage?,Have you agreed to this marriage?,Noakhali,True
+যেই মাইয়া বেশী কথা কয় তারে আর হসন্দ না,Noakhali,0.987,I don't like girls who talk a lot anymore,I don't like the girls who talk too much,Noakhali,True
+হোলা ইয়া অনেক বেশী কথা কয়,Noakhali,0.9973,The boy talks too much.,The boy talks too much,Noakhali,True
+আন্নে কি আইজ্জা বেয়ানে চা খান্নো,Noakhali,0.9976,Are you drinking tea this morning?,You didn't have tea this morning,Noakhali,True
+আই আর আম্মুর বেগ কথা খুব মনোযোগ দি হুনি,Noakhali,0.9973,I listen to everything my mother says very attentively,I listen very carefully to everything my mother says,Noakhali,True
+লোক ইয়া তার বউয়ের গাত আত তুলে,Noakhali,0.998,The man raised his hand against his wife.,The man put his hand on his wife,Noakhali,True
+তোর কি লোক দেয়ানি শেষনি?,Noakhali,0.901,You haven't finished giving people anything yet.,Are you done showing people?,Noakhali,True
+আর বউ কোনদিন আরে খোঁচা মারি কতা ক নো,Noakhali,0.9977,My wife never touched me or spoke to me.,My wife never scolded me,Noakhali,True
+তুই একজন ভালা মাইয়া মানুষ,Noakhali,0.9667,You are a good girl.,You are a good girl,Noakhali,True
+তোরে জোর করি বিয়া দেন ওইছে,Noakhali,0.9742,You were forced into marriage.,You were forced into marriage,Noakhali,True
+হেতন তিনবেলা ভাত খাইতো হারে নাহ,Noakhali,0.9979,He cannot eat rice for three meals,He cannot eat rice for two meals,Noakhali,True
+তোর পাশে থাইক্লে আই কল্পনার তুন বেশি সুখী থাই,Noakhali,0.997,I am happier with you than I could ever imagine.,I am happier than I can imagine when I am by your side,Noakhali,True
+আই খুব  জোস মেকআপ করি,Noakhali,0.9963,I do very good makeup,I wear a lot of makeup,Noakhali,True
+"আন্নেরে কিছু কোন লাগে না, আন্নে এন্নেই আর মনের কথা বুঝি যান",Noakhali,0.9976,"You don't like anything, you just understand what's in my heart","You don't need to say anything, you already understand what I mean",Noakhali,True
+তুই আন্ডার কাছে ধরা খাইবার হরেও হরকীয়া করার কথা স্বীকার কররনা,Noakhali,0.9971,"Even after being caught by us, you won't admit to acting.",You are not admitting to adultery even after being caught by me,Noakhali,True
+তোওইয়ার ছোট ভআই আগে নেশায় আসক্ত আসিল,Noakhali,0.9909,Your younger brother was addicted to drugs before.,Your younger brother was addicted to drugs before,Noakhali,True
+আই আর ছোট বইন আইজ্জা খালামুনির বাসাত ঘুইরত যাইব,Noakhali,0.9975,My younger sister and I are going to visit Khalamunni's house today.,Me and my younger sister will visit Khalamuni's house today,Noakhali,True
+তুই কি আম ইয়া খাইসিলানে?,Noakhali,0.996,Have you eaten this mango?,did you eat the mango,Noakhali,True
+আন্নে কি আরে দয়া করি বিশ্বাস করেন,Noakhali,0.9975,Do you believe me please?,Please believe me,Noakhali,True
+ছোট বাাইচ্চা ইয়া অসুস্থ অই হইচ্চে,Chittagong,0.997,The little child is sick.,The little child is sick,Noakhali,False
+তুই কি আরে লাই অফেক্ষা কইরতে হাইরবা নে?,Noakhali,0.9973,Can you wait for me?,can you wait for me,Noakhali,True
+তুই আর কাছে মাফ চো,Noakhali,0.9478,Forgive me,You apologize to me,Noakhali,True
+তোওয়ার কি মাথা ব্যাথা কইচ্চে নি?,Noakhali,0.9967,Are you having a headache?,Do you have a headache?,Noakhali,True
+আর আত খরচের টেয়া আর আব্বু দেয়,Noakhali,0.9915,My father pays my expenses,My father pays my expenses,Noakhali,True
+মাইত্তুন বিয়ার লাই আর লাই মাইয়া দেয়া শুরু কইচ্চে,Noakhali,0.9953,The girl has started marrying me for me,She started looking for me for marriage from home,Noakhali,True
+হোলা ইয়া আরও দুই বছর হয়ে বিয়া কইরতো চায়,Noakhali,0.9977,The boy wants to get married after two more years,The boy wants to get married after two more years,Noakhali,True
+আই বেকেরে বুঝাই বুঝাই ক্লান্ত যে আর আম্মু এইচ্চা কিছু করেনো,Noakhali,0.9976,I am tired of explaining to everyone that my mother does such a thing,I'm tired of explaining to everyone that my mom never did anything like that,Noakhali,True
+বাবা অশিক্ষিত হোলা ইজ্ঞার লগে আর বিয়া দিতো চাইচিলো,Noakhali,0.9977,My father wanted me to marry an uneducated boy.,My father wanted to marry me to an illiterate boy,Noakhali,True
+আন্ডা বাইরে ঘুইরত যাইবার কোন ইচ্ছা আসিল না,Noakhali,0.9976,We didn't feel like going out for a walk,I had no desire to go outside,Noakhali,True
+প্রথম দিকে আন্নেরে আই এত ভালোবাইসতাম না,Noakhali,0.9974,At first I didn't love you so much,At first I didn't love you so much,Noakhali,True
+হোলা ইয়া সপ্তাখানিক আগে আন্ডা লোগে দেয়া কইচ্চে,Noakhali,0.9976,The boy told us to log in before the week ended.,The boy met us a week ago,Noakhali,True
+অই মাইয়া ইয়া যেন্নেই  ওক খুজি বাইর করন লাইগব,Noakhali,0.998,I need to find the girl everywhere I can.,That girl has to be found anyway,Noakhali,True
+হলা ইয়া হরিবার সহ ঈদের আগের দিন আন্ডার লগে দেখাই কত্তে আইসে,Noakhali,0.9945,The boy showed us when he came with his family the day before Eid.,The boy along with his family came to visit us the day before Eid,Noakhali,True
+মাইয়া ইয়া বাংলাদেশে আই তার হসন্দ মতন হলার লগে বিয়া ঠিক কইচ্চে,Noakhali,0.998,The girl is in Bangladesh and has arranged her marriage with her favorite boy.,The girl came to Bangladesh and decided to marry the boy of her choice,Noakhali,True
+আর  ভাই শিমের তরকারি দি ভাত খাইলে খুব ভালোবাসে,Noakhali,0.9975,My brother loves to eat rice with mustard curry.,My younger brother loves to eat rice with sim's bean curry,Noakhali,True
+আন্ডা গেরামের বাড়িত কতুগুন মুরগির সা আসে,Noakhali,0.9978,There are many chickens in our village house,We have many chickens in our village house,Noakhali,True
+আর ছোট ভোইন খুবি বোকা,Noakhali,0.9265,My younger sister is very stupid.,My younger sister is very stupid,Noakhali,True
+গেরামের বাড়ি জাই আই অসসর অসসর হাসুর কাইসসি,Noakhali,0.6401,I went to the village house and kissed my mother,I swam alone after going to the village,Noakhali,True
+আর আব্বু আম্মু ভাই ভোইন ড্রয়িংরুমে বই রইসে,Noakhali,0.9975,"My father, mother, brother are sitting in the drawing room.","My father, mother, brother, sister are sitting in the drawing room",Noakhali,True
+আন্ডা  ঘরের স্টোররুম ইয়া  অনেক বড়,Noakhali,0.9977,Our house's storeroom is very big,The storeroom in our house is very big,Noakhali,True
+বাইচ্চা এক্কান বিলাইর সারে আদর কইচ্ছে,Noakhali,0.9982,A cat is kissing a cat,Child caressing a kitten,Noakhali,True
+আর বড়া ভাই বেজ্ঞুন তরকারির ঝোল আর খুব হসন্দ,Noakhali,0.9897,My elder brother really likes curry pudding.,My elder brother had eggplant curry broth with rice at noon,Noakhali,True
+আর আম্মু বলে তেতই খাইলে আর বুদ্ধিকমি যাইব,Noakhali,0.9961,"My mother says that if I eat tamarind, I will lose my mind",My mom says that eating tamarind will reduce my intelligence,Noakhali,True
+গরমের দিনে নুন দি শশা খাইতে খুব ভালা লাগে,Noakhali,0.9974,It is very good to eat mustard with salt on a hot day,It is very good to eat cucumber with salt on hot days,Noakhali,True
+আর আব্বু গাত সরিষার তেল লাগায়,Noakhali,0.9909,My father puts mustard oil on his hands.,My father massaged mustard oil on his body,Noakhali,True
+আন্ডা গেরামের বাজারে অনেক বড্ডা ইজ্ঞা দেশী মুরগির দোয়ান আসে,Noakhali,0.9975,There is a large native chicken shop in our village market,There is a very big country chicken shop in our village market,Noakhali,True
+আই আইজ্জা শিম ভাজি দি দুফুরে ভাত খাইসি,Noakhali,0.9938,I had rice for lunch with mushrooms cooked today,Today I had fried beans and rice for lunch,Noakhali,True
+দুুইদিন ধরি আর অনেক সর্দি-জ্বর,Noakhali,0.9957,I have had a lot of cold and fever for two days,I have a lot of cold and fever for two days,Noakhali,True
+আর স্কুলে কোনো খেলাত মাঠ নাই,Noakhali,0.9901,There is no field for any games in my school.,There is no playground in my school,Noakhali,True
+আইজ্জা ইংল্যান্ড বিশ্বকাপ ক্রিকেট খেলায় জিতি গেসে,Noakhali,0.9972,England won the Cricket World Cup today.,Today England won the World Cup cricket match,Noakhali,True
+তুই কি আরে এক গ্লাস হানি আনি দিতা হাইরবানি?,Noakhali,0.9961,Can you please bring me a glass of water?,Can you get me a glass of water?,Noakhali,True
+আইচ্ছা বলো সাই বাংলাদেশে কোগা জেলা?,Noakhali,0.9968,"Tell me, sir, how many districts are there in Bangladesh?",Well tell me how many districts in Bangladesh?,Noakhali,True
+তোমার আব্বায় ক্যামন আছে?,Barisal,0.9985,How is your father?,How is your father?,Barisal,True
+মোর বড় বুইনের আইজগো মন ভালো নাই,Barisal,0.9986,My elder sister is not feeling well today.,My elder sister is not feeling well today,Barisal,True
+তুমি কি মোরে এই কামডা কইররা দেতে পারবা?,Barisal,0.9988,Can you do this for me?,Can you do this for me?,Barisal,True
+তোমার নাহান খারাপ পোলা মুই আর এউক্কাও দেহিনাই,Barisal,0.9989,I'm not as bad a boy as you,I've never seen a bad boy like you,Barisal,True
+বিয়ার লইজ্ঞা মায় মোর লইজ্ঞা পোলা খোজতেয়াছে,Barisal,0.9989,Mother is looking for son for me for marriage,Amma is looking for a boy for me for marriage,Barisal,True
+মোর ঘোরতে বেমালা ভালো লাগে,Barisal,0.9988,I really enjoy walking.,I like to travel a lot,Barisal,True
+মোর ছোডো ভাই ইস্কুলে যাইতে চায় না,Barisal,0.9975,My younger brother doesn't want to go to school,My younger brother doesn't want to go to school,Barisal,True
+মুই একদিন ইস্কুলের মাডে মাথা ঘুরাইয়া পইররা গ্যাল্লাম,Barisal,0.9986,One day I turned around in the school grounds,I lost my head one day in the school grounds,Barisal,True
+আমনে কি মোরে কোনকালেও ভালবাসবেন না?,Barisal,0.998,Will you never love me?,Will you never love me?,Barisal,True
+মোর দোস্ত যারে ভালোবাসে হ্যায় রাজশাহী থাহে,Barisal,0.9984,My friend who loves lives in Rajshahi,The one my friend loves lives in Rajshahi,Barisal,True
+মাইয়াডা রাজশাহী গোনে মোর বড় ভাইর লগে দ্যাহা করতে আইল্লে,Barisal,0.9988,The girl came to meet my elder brother from Rajshahi,The girl came from Rajshahi to meet my elder brother,Barisal,True
+আমনে কি মোরে আগে কোনদিন দ্যাখছেন?,Barisal,0.9979,Have you ever seen me before?,Have you ever seen me before?,Barisal,True
+আমনে কি মোরে চেনতা পারছেন?,Barisal,0.9988,Do you know me?,Do you recognize me?,Barisal,True
+মাইয়াডা তোমারে চেনতে পারল না,Barisal,0.5186,The girl didn't recognize you.,The girl didn't recognize you,Barisal,True
+মোর ছোডো ভাই ইস্কুলে যাইয়া দোস্তগো লগে কেসসা করে,Barisal,0.9989,My younger brother goes to school and chats with his friends.,My younger brother goes to school and chats with his friends,Barisal,True
+মোর দোস্ত ইস্কুলের মাডে পেরতেকদিন কিরকেট খ্যালে,Barisal,0.9987,My friend plays cricket on the school field every day.,My friend plays cricket everyday in the school ground,Barisal,True
+মোর বউ মোরে ভালবাসে না,Barisal,0.9612,My wife doesn't love me,My wife doesn't love me,Barisal,True
+ইস্কুল জীবন গোনে মোর ভাইর লগে তোমার বুইনের পেরেম আল্লেহ,Barisal,0.999,My brother had a love affair with your sister from school life,Your sister was in love with my brother since school life,Barisal,True
+তোমার হাশির ধারে মোর হগল কিছু ঠইজ্ঞা যায়,Barisal,0.9989,Everything I have escapes from your smile,I lose everything to your smile,Barisal,True
+তোমার চক্ষু দুইডা বেমালা সুন্দর,Barisal,0.9989,Your eyes are very beautiful.,Your eyes are very beautiful,Barisal,True
+তোমার লগে ম্যালা দিন পর দ্যাহা,Barisal,0.9988,Seeing you after a long time,See you after a long time,Barisal,True
+পোলাডা বিদ্যাশে যাইয়া পড়াল্যাহা করার হপন দ্যাহে,Barisal,0.9989,The boy dreams of going abroad to study.,The boy dreams of studying abroad,Barisal,True
+তোমার লগে কথা কইয়া মোর বেমালা ভালো লাগছে,Barisal,0.9986,I really enjoy talking to you.,I enjoyed talking with you,Barisal,True
+তোমার দোস্তের লগে পরিচিত হইয়া ভালো লাগছে,Barisal,0.9961,Nice to meet your friend,Nice to meet your friend,Barisal,True
+ব্যাডাডা কয় দিন আগে বিয়া করছে,Barisal,0.9921,The man got married a few days ago,The man got married a few days ago,Barisal,True
+বেশি কিছু কয়ার আগেই চোউখে পানি চইল্লা আইছে,Barisal,0.9468,"Before I said much more, the water came out of the mouth","Before saying more, tears are coming to the eyes",Barisal,True
+এউক্কা মাতারি মইরা গ্যাছে,Barisal,0.9989,A mother is dead,A woman died,Barisal,True
+আমনে এত খয়রাতি আগে কিরলইজ্ঞা কন নাই,Barisal,0.9985,Why didn't you say so much before?,Why didn't you tell me earlier that you are so poor,Barisal,True
+মোর মায় মোরে বেবাকটির সামনে পিডাইতে পিডাইতে বাড়ি লইয়া আইছে,Barisal,0.9986,My mother brought me home and beat me in front of everyone.,My mom brought me home beating me in front of everyone,Barisal,True
+আমনে কি জানেন এইহানে ম্যালা পোলা কমেন্ট পড়তে আইবে,Barisal,0.9981,Do you know many boys will come here to read the comments?,Do you know that many boys will come here to read comments,Barisal,True
+মোর ভালোবাসা দিয়া আজীবন তোমার ধারে থাকতে চাই,Barisal,0.9978,I want to be with you in my love forever,I want to be with you all my life with my love,Barisal,True
+তোমারে ক্যামনে বুঝামু তোমারে কতডা ভালবাসি?,Barisal,0.9973,How can I tell you how much I love you?,How to tell you how much I love you?,Barisal,True
+আমনে বেমালা কষ্টে নিজেরে সামলাইয়া নেছেন,Barisal,0.9987,You have dealt with yourself very hard,You have handled yourself with great difficulty,Barisal,True
+মোর বান্ধুবি কিছু ভাবতে পারেনা আমনেরে থুইয়া,Barisal,0.9987,My friend can't think of anything without you.,My girlfriend can't think of anything without you,Barisal,True
+মোর দোস্ত কিছুই ল্যাখতে পারেনা আমনের নাম ছাড়া,Barisal,0.9986,My friend cannot write anything without your name.,My friend can't write anything except your name,Barisal,True
+আমনেরে ভালবাসি এই কথাডা কওয়া বাকি,Barisal,0.9988,Needless to say I love you,All that is left to say is that I love you,Barisal,True
+মুই মোর দোস্তরে এউক্কা লাল গোলাপ কিন্না উপহার দিছি,Barisal,0.9989,I bought a red rose and gave it to my friend,I bought and gifted a red rose to my friend,Barisal,True
+"যদি তুমি মোর ধারে ফিররা আও, তয় হ্যারে ছাইররা দেও",Barisal,0.998,"If you come back to me, let him go","If you come back to me, let him go",Barisal,True
+আমনে যেই মানুডারে ভালোবাসবেন হ্যারে যদি না বোঝতে পারেন হ্যালে আমনের এই প্রেমের কোন অর্থ নাই,Barisal,0.9988,"If you don't understand the person you love, then your love has no meaning",If you don't understand the person you love then your love has no meaning,Barisal,True
+আমনের মনের কথা গুলান মোরে আইজ খুইল্লা কন,Barisal,0.999,Let me know what's in your heart today.,Tell me your thoughts today,Barisal,True
+তুমি কহনই পারবা না অন্য কাউরো ভালোবাসা ছিনাইয়া নেতে,Barisal,0.5951,You will never be able to take someone else's love,You can never take away someone else's love,Barisal,True
+তুমি জোর কইররা অন্যের ভালো লাগার মানু হইতে পারবা না,Barisal,0.9986,You cannot force yourself to be liked by others.,You can't force others to like you,Barisal,True
+কাইলগো বেইন্নাহালে হ্যাগোরে দ্যাখতে পাইবেন,Barisal,0.9986,You will see them tomorrow morning.,You will see them again tomorrow morning,Barisal,True
+মোর বেমালা ভালো লাগে কালা ওই চক্ষু দুইডা তোমার,Barisal,0.9988,I really like those black eyes of yours.,I like those black eyes of yours,Barisal,True
+তোমার হাাজার কথার মইধ্যে তোমার মনের কথা পলাইয়া আল্লেহ,Barisal,0.9989,The words of your mind were hidden in the midst of your words.,Your heart was hidden in your thousands of words,Barisal,True
+তোমারে পড়াল্যাহা কইররা কি হইবে যদি তুমি যারে ভালবাসো হ্যারেই না পাও,Barisal,0.9989,What will happen if you cannot find the person you love by studying?,What happens to your studies if you don't find the one you love?,Barisal,True
+মাছের বাজারে হগলডি আইয়া বড় মাছটা দেহার লইজ্ঞা ভিড় করছে,Barisal,0.9977,Everyone is coming to the fish market to see the big fish,The fish market was crowded to see the big fish,Barisal,True
+আকাশের নীলে হারাইয়া যাইতে চাই তোমারে লইয়া,Barisal,0.9964,I want to lose you in the blue sky,I want to get lost in the blue sky with you,Barisal,True
+আমনের কি এহনো আমনের ভালবাসার মানের কথা মনে পরে,Barisal,0.998,Do you still remember the quality of your love?,Do you still remember your loved one?,Barisal,True
+তুমি এক সন্ধ্যায় অফিসে গোনে বাড়ি ফিররা দ্যাখবা মুই আর নাই,Barisal,0.9981,You will come home from the office one evening and see that I am no longer there,You will come home from office one evening and find I am gone,Barisal,True
+মুই যে মা হেইতে মুই মোর গেদুর মুখের দিক চাইয়া ম্যালা কিছু বোঝতে পারি,Barisal,0.9989,"Because I am a mother, I can understand a lot by looking at my child's face","As a mother, I understand a lot by looking at my child's face",Barisal,True
+মাইয়াডা এউক্কা ভালো চাকরি করে,Barisal,0.9989,The girl has a good job.,The girl does a good job,Barisal,True
+এই মাসে পোলায় হ্যার পরিবার লইয়া ঘোরতে যাওয়ার কথা,Barisal,0.9989,"This month, the boy is planning to go on a trip with his family.",This month the son is supposed to travel with his family,Barisal,True
+মাইয়াডা এই পোলাডারে বিয়া করতে রাজি হইতেয়াছেনা,Barisal,0.9987,The girl is not agreeing to marry this boy.,The girl is not agreeing to marry this boy,Barisal,True
+মোর জামাই মোগো লইয়া রাইতের বেলা ঘোরতে বাইর হইবে,Barisal,0.9989,My husband will take us out for a walk at night.,My husband will take us out for a walk at night,Barisal,True
+মোর পছন্দ হয় হেরহম পোলা মোর বাপ মায়ের পছন্দ হয় না,Barisal,0.9988,"I like boys, my parents don't like them",The boy I like is not liked by my parents,Barisal,True
+মোর ভাই মাইয়াডার লগে গ্যাছেকাইল যোগাযোগ করে,Barisal,0.9964,My brother contacted the girl yesterday.,My brother contacted the girl yesterday,Barisal,True
+মোর দোস্ত মাইয়াগো লগে হারা রাইত জাইজ্ঞা কথা কয়,Barisal,0.9987,My friends talk to girls all night,My friend stays up all night talking to girls,Barisal,True
+মুই কেলাসের হগল পোলাগো লগেই মেশতাম,Barisal,0.9989,I mixed with all the boys in the class,I got along with all the boys in the class,Barisal,True
+এই তিন বছরের গেদুর দোষ কোম্মে?,Barisal,0.9985,What is the fault of this three-year-old child?,Where is the fault of this three-year-old child?,Barisal,True
+মোর দোস্তরা হগলডি বেমালা মেধাবী,Barisal,0.9989,My friends are all very talented.,All my friends are very talented,Barisal,True
+আমনে বেমালা সুন্দর কইররা কথা কন,Barisal,0.9986,You speak very nicely.,You speak very nicely,Barisal,True
+তোমার সুন্দর সুন্দর ছবি গুলা দেইখ্যা বেমালা আনন্দ পাইছি,Barisal,0.9989,I was very happy to see your beautiful pictures,I am very happy to see your beautiful pictures,Barisal,True
+মাইয়ারা বিয়া করার লইজ্ঞা ভদ্র পোলা খোজে,Barisal,0.9988,Girls are looking for decent boys to marry,Girls find decent boys to marry,Barisal,True
+বাস্তব জীবনে বিয়ার পরই কাইজ্জা শুরু হয়,Barisal,0.9979,Arguing starts after marriage in real life,In real life quarrels start only after marriage,Barisal,True
+যতদিন এই পিরথিবিতে থাকমু তোমারে মনে রাহুম,Barisal,0.9988,"As long as I live on this earth, I will remember you","As long as I live in this world, I will remember you",Barisal,True
+একবার তোমার হাত ধরলে আর কোনদিন ছাড়মু না,Barisal,0.9961,"Once I hold your hand, I will never leave","Once I get hold of you, I will never let go",Barisal,True
+তোমার চুল পরার সমেস্যা লইয়া ডাক্তারের ধারে যাইতে হইবে,Barisal,0.9987,You need to see a doctor because of your hair loss problem.,You should go to the doctor about this hair loss problem,Barisal,True
+ভাল মানু এই পিরথিবিতে বেশি দিন বাচে না,Barisal,0.9977,Good people don't live long on this earth.,Good people don't live long in this world,Barisal,True
+পোলাডা ছুটির দিনেও কলেজে যায়,Barisal,0.997,The boy goes to college even on holidays.,The boy goes to college even on holidays,Barisal,True
+তোমার ছোট ভাইর জন্মদিন কবে?,Barisal,0.6235,When is your younger brother's birthday?,When is your younger brother's birthday?,Barisal,True
+আমনে কি মোরে এউক্কা গান গাইয়া হুনাইবেন?,Barisal,0.9989,Can you sing me a song?,Can you sing me a song?,Barisal,True
+তুমি কি তোমার ভুল বোঝতে পারছো?,Barisal,0.9986,Do you understand your mistakes?,Did you realize your mistake?,Barisal,True
+তুমি কি মোর লইজ্ঞা এউক্কা গান লেইক্ষা দেতে পারবা?,Barisal,0.9988,Can you write a song for me?,Can you write a song for me?,Barisal,True
+মোর দোস্তরা বেইন্নাহালে ফুটবল খ্যালতে মাঠে যায়,Barisal,0.9989,My friends go to the field to play football in the morning.,My friends go to the field to play football in the morning,Barisal,True
+তোমার বয়স কত?,Barisal,0.5753,What is your age?,how old are you,Barisal,True
+তুমি বেইন্নাহালে উইঠ্যা চা খাবা?,Barisal,0.9987,Will you have tea in the morning?,Do you get up in the morning and eat tea?,Barisal,True
+আমনে কি এট্টু এইহানে আইতে পারবেন?,Barisal,0.9984,Can you come here?,Can you come this way?,Barisal,True
+তোর পরিক্ষা কবে?,Barisal,0.8274,When is your exam?,When is your exam?,Barisal,True
+আমনেরে থুইয়া মোর বান্ধুবি ভালো নাই,Barisal,0.9988,My friend is not well without you.,My girlfriend is not good without you,Barisal,True
+আমনে কি চান মুই এইহানে গোনে চইল্লা যাই,Barisal,0.9989,Do you want me to leave here?,Do you want me to leave here?,Barisal,True
+আমনে কি এই বিয়ায় রাজি হইছেন?,Barisal,0.9949,Have you agreed to this marriage?,Have you agreed to this marriage?,Barisal,True
+যে মাইয়া বেশি কথা কয় হ্যারে আমার পছন্দ না,Barisal,0.9979,I don't like girls who talk too much,I don't like the girls who talk too much,Barisal,True
+পোলাডা বেশি কথা কয়,Barisal,0.9953,The boy talks a lot.,The boy talks too much,Barisal,True
+আমনে আইজ সকালে চা খান নাই,Barisal,0.9972,Didn't you have tea this morning?,You didn't have tea this morning,Barisal,True
+মুই মোর মায়ের হগল কথা ম্যালা মন দিয়া হুনি,Barisal,0.9989,I listen to everything my mother says very carefully,I listen very carefully to everything my mother says,Barisal,True
+ব্যাডায় হ্যার বউর গায়ে হাত তোলে,Barisal,0.9974,He touched his wife,The man put his hand on his wife,Barisal,True
+তোমার কি মানু দেহাইন্না শ্যাষ?,Barisal,0.9972,Are you still human?,Are you done showing people?,Barisal,True
+মোর বউ মোরে কোনদিনও খোচা মাইররা কথা কয় নাই,Barisal,0.9955,My wife has never spoken harshly to me,My wife never scolded me,Barisal,True
+তুমি এউক্কা ভালো মাইয়া মানু,Barisal,0.9989,You are a good girl.,You are a good girl,Barisal,True
+তোমারে জোর কইররা বিয়া দেয়া হইছেলে,Barisal,0.9987,You were forced into marriage.,You were forced into marriage,Barisal,True
+হ্যায় দুইবেলা ভাত খাইতে পারে না,Barisal,0.9984,He cannot eat rice twice a day.,He cannot eat rice for two meals,Barisal,True
+তোমার ধারে থাকলে মুই কল্পনার চাইয়াও বেশি সুখে থাহি,Barisal,0.9976,I am happier than I imagined being with you.,I am happier than I can imagine when I am by your side,Barisal,True
+মুই বেমালা জোস মেকাপ করি,Barisal,0.9988,I do very good makeup,I wear a lot of makeup,Barisal,True
+আমনেরে কিছু কওয়া লাগেনা আমনে এমনেই মোর মনের কথা বুইজঝা যান,Barisal,0.9988,"You don't need to say anything, just understand my feelings.","You don't need to say anything, you already understand what I mean",Barisal,True
+তুমি মোর ধারে ধরা পরার পরেও পরকীয়া করার কথা স্বীকার করতেয়াছো না,Barisal,0.9977,"Even after being caught by me, you are not admitting to being estranged",You are not admitting to adultery even after being caught by me,Barisal,True
+তোমার ছোট ভাই আগে নেশায় আসক্ত আল্লেহ,Barisal,0.9987,Your younger brother was addicted to drugs before,Your younger brother was addicted to drugs before,Barisal,True
+মুই আর মোর ছোডো বুইন আইজগো খালার বাসায় ঘোরতে যামু,Barisal,0.9988,My younger sister and I are going to visit my aunt's house today.,Me and my younger sister will visit Khalamuni's house today,Barisal,True
+তুমি কি আমডা খাইল্লা?,Mymensingh,0.6198,Did you eat the mango?,did you eat the mango,Barisal,False
+আমনে মোরে দয়া কইররা বিশ্বাস করেন,Barisal,0.9986,Please believe me.,Please believe me,Barisal,True
+ছোডো গেদুডা অসুস্থ হইয়া পরছে,Barisal,0.9984,The little boy is getting sick.,The little child is sick,Barisal,True
+তুমি কি মোর লইজ্ঞা অপেক্ষা করতে পারবা?,Barisal,0.9988,Can you wait for me?,can you wait for me,Barisal,True
+তুমি মোর ধারে মাফ চাও,Barisal,0.9847,You apologize to me.,You apologize to me,Barisal,True
+তোমার কি মাথা বেথা করতেয়াছে?,Barisal,0.9987,Do you have a headache?,Do you have a headache?,Barisal,True
+মোর হাত খরচের টাহা মোর আব্বায় দেয়,Barisal,0.9982,My father gives me money for money.,My father pays my expenses,Barisal,True
+বাড়ি দিয়া বিয়ার লইজ্ঞা মোর লইজ্ঞা মাইয়া দ্যাহা শুরু করছে,Barisal,0.9989,Girls are starting to meet me for marriage from home,She started looking for me for marriage from home,Barisal,True
+পোলাডা আরো দুজ্ঞা বছর পর বিয়া করতে চায়,Barisal,0.9985,The boy wants to get married after two more years,The boy wants to get married after two more years,Barisal,True
+মুই হগলডিরে বুঝাইয়া বুঝাইয়া পাগল যে মোর মায় এরহম কিছু করে নাই,Barisal,0.9988,I'm mad to explain to everyone that my mother didn't do that,I'm tired of explaining to everyone that my mom never did anything like that,Barisal,True
+আব্বায় অশিক্ষিত এউক্কা পোলার লগে মোর বিয়া দেতে চাইল্লে,Barisal,0.9989,My father wanted to marry me to an uneducated boy,My father wanted to marry me to an illiterate boy,Barisal,True
+মোর বায়রায় ঘোরতে যাওয়ার কোন ইচ্ছা আল্লেহ না,Barisal,0.9989,I had no desire to go out for a walk,I had no desire to go outside,Barisal,True
+পোরথোমদিক আমনেরে মুই এত ভালোবাস্তাম না,Barisal,0.9985,I didn't love you that much at first,At first I didn't love you so much,Barisal,True
+পোলাডা সপ্তাখানেক আগে মোগো লগে দ্যাহা করছে,Barisal,0.9987,The boy met us about a week ago,The boy met us a week ago,Barisal,True
+অই মাইয়ারে যেমনেই হউক খুইজ্জা বাইর করতে হইবে,Barisal,0.9928,That girl must be found in any way possible,That girl has to be found anyway,Barisal,True
+পোলাডা হ্যার পরিবার সহ চান রাইতে মোগো লগে দ্যাহা করতে আহে,Barisal,0.9989,The boy came to see us with his family at night,The boy along with his family came to visit us the day before Eid,Barisal,True
+মাইয়াডা বাংলাদেশে আইয়া হ্যার পছন্দের পোলার লগে বিয়া ঠিক করছে,Barisal,0.9988,The girl came to Bangladesh and decided to get married to her favorite boy,The girl came to Bangladesh and decided to marry the boy of her choice,Barisal,True
+মোর ছোডো ভাই উশ্যির শালুন দিয়া ভাত খাইতে বেমালা ভালবাসে,Barisal,0.999,My younger brother loves to eat rice with mustard curry,My younger brother loves to eat rice with sim's bean curry,Barisal,True
+মোগো গেরামের বাড়িতে বেমালা মুরহার ছাও আছে,Barisal,0.9989,There are many chickens in our village house,We have many chickens in our village house,Barisal,True
+মোর ছোডো বুইন একছের গোঙ্গা,Barisal,0.9988,My younger sister is very stupid.,My younger sister is very stupid,Barisal,True
+গেরামের বাড়ি যাইয়া মুই একলা একলা হাতোর কাটছি,Barisal,0.9921,"Going to the village house, I am alone",I swam alone after going to the village,Barisal,True
+"মোর আব্বায়, মায়, ভাই, বুই হাইতনায় বইয়া আছে",Barisal,0.9972,"My father, mother, brother, sister live in Haiti","My father, mother, brother, sister are sitting in the drawing room",Barisal,True
+মোগো বাড়ির উগোইরডা বেমালা বড়,Barisal,0.9989,Our house is very large.,The storeroom in our house is very big,Barisal,True
+গেদুডা এউক্কা বিলোই ছাওরে আদর করতেয়াছে,Barisal,0.999,The child is addressing a cat,Child caressing a kitten,Barisal,True
+মোর মায় কয় যে ট্যাঙ্গা খাইলে মোর বুদ্ধি কইম্মা যাইবে,Barisal,0.9984,"My mother says that if I eat mangoes, my mind will lose",My mom says that eating tamarind will reduce my intelligence,Barisal,True
+গরমের কালে নুন দিয়া হোয়া খাইতে বেমালা ভালো লাগে,Barisal,0.9989,I really enjoy eating guava with salt in summer,It is very good to eat cucumber with salt on hot days,Barisal,True
+মোর আব্বায় শরিলে কউররার ত্যাল মালিশ করে,Barisal,0.9984,My father cooks curry oil on my body.,My father massaged mustard oil on his body,Barisal,True
+মোগো গেরামের বাজারে বেমালা বড় এউক্কা দেশী মুরহার দোকান আছে,Barisal,0.9989,There is a very large native chicken shop in our village market,There is a very big country chicken shop in our village market,Barisal,True
+মুই আইজগো উশ্যি ভাজি দিয়া দুফুরে ভাত খাইছি,Barisal,0.9985,I had fried rice for lunch with chicken today.,Today I had fried beans and rice for lunch,Barisal,True
+দুজ্ঞাদিন ধইররা মোর বেমালা ঠান্ডা-জ্বর,Barisal,0.9988,I was very cold and fevered for two days,I have a lot of cold and fever for two days,Barisal,True
+আইজগো ইংল্যান্ড বিশ্বকাপ কিরকেট খ্যালায় জিততা গ্যাছে,Barisal,0.9988,England won the Cricket World Cup today,Today England won the World Cup cricket match,Barisal,True
+তুমি কি মোরে এক গেলাস পানি আইননা দেতে পারবা?,Barisal,0.9985,Can you give me a glass of water?,Can you get me a glass of water?,Barisal,True
+আচ্ছা কও দেহি বাংলাদেশে কয়ডা জেলা,Barisal,0.9526,"Well, tell me, what districts are in Bangladesh?",Well tell me how many districts in Bangladesh?,Barisal,True
+তোমার বাপ কেমত আসে?,Mymensingh,0.996,How is your father?,How is your father?,Mymensingh,True
+আমার বড়  বইনের আইজ মন ভালা নাই,Mymensingh,0.9979,My elder sister is not well today.,My elder sister is not feeling well today,Mymensingh,True
+তুমি কিতা আমারে এই কামডা কইরা দিতা ফারবা?,Mymensingh,0.9981,Can you do this work for me?,Can you do this for me?,Mymensingh,True
+তোমার মত খারাপ ছেড়া আমি আর একটাও  দেখসিনা,Mymensingh,0.9983,I haven't seen another bad boy like you.,I've never seen a bad boy like you,Mymensingh,True
+বিয়ার লাইজ্ঞা আম্মা  আমার লাইজ্ঞা ছেড়া  খুজতাসে,Mymensingh,0.9979,Mother is looking for a boy for me for marriage,Amma is looking for a boy for me for marriage,Mymensingh,True
+আমার ঘুরতে মেলা ভালা লাগে,Mymensingh,0.9903,I really enjoy walking.,I like to travel a lot,Mymensingh,True
+আমার ছোট ভাই ইস্কুলে  যাইতে চায় না,Mymensingh,0.9965,My younger brother does not want to go to school.,My younger brother doesn't want to go to school,Mymensingh,True
+আমি একদিন  ইস্কুলের মাঠে মাথা ঘুরায়া পইরা গেসিলাম,Mymensingh,0.998,One day I was walking around the school grounds,I lost my head one day in the school grounds,Mymensingh,True
+আফনে কি আমারে কোনদিনও ভালবাসবেন না ?,Mymensingh,0.9982,Will you never love me?,Will you never love me?,Mymensingh,True
+আমার বন্ধু  যারে ভালবাসে হেয় রাজশাহী থাকে,Mymensingh,0.9979,My friend who loves me lives in Rajshahi,The one my friend loves lives in Rajshahi,Mymensingh,True
+মাইয়াডা রাজশাহী থাইক্কা আমার বড় ভাইয়ের সাথে দেখা করতে আইসিল,Mymensingh,0.9979,The girl came to meet my elder brother from Rajshahi.,The girl came from Rajshahi to meet my elder brother,Mymensingh,True
+আফনে কি আমারে আগে কোনদিন দেখসেন ?,Mymensingh,0.9981,Have you ever seen me before?,Have you ever seen me before?,Mymensingh,True
+আফনে কি আমারে চিনতে পারসেন?,Mymensingh,0.9982,Do you recognize me?,Do you recognize me?,Mymensingh,True
+মাইয়াডা তোমারে  চিনতে পারল না,Mymensingh,0.9968,The girl didn't recognize you.,The girl didn't recognize you,Mymensingh,True
+আমার ছোট ভাই ইস্কুলে  গিয়া বন্ধুরার লগে গল্প করে,Mymensingh,0.9978,My younger brother goes to school and talks to friends,My younger brother goes to school and chats with his friends,Mymensingh,True
+আমার বন্ধু ইস্কুলের  মাঠে প্রতিদিন ক্রিকেট খেলে,Mymensingh,0.9957,My friend plays cricket on the school field every day.,My friend plays cricket everyday in the school ground,Mymensingh,True
+আমার বউ আমারে  ভালবাসে না,Mymensingh,0.9956,My wife doesn't love me,My wife doesn't love me,Mymensingh,True
+ইস্কুল জীবন থাইক্কা আমার ভাইয়ের লগে তোমার বইনের  প্রেম আসিল,Mymensingh,0.9977,"Since school life, my brother has had the love of your sister.",Your sister was in love with my brother since school life,Mymensingh,True
+তোমার  হাশির কাসে আমার বেগ কিসু হার মাইন্না যায়,Mymensingh,0.9894,I miss everything because of your smile,I lose everything to your smile,Mymensingh,True
+তোমার  চোখ দুইডা মেলা সুন্দর,Mymensingh,0.9945,Your eyes are very beautiful.,Your eyes are very beautiful,Mymensingh,True
+তোমার লগে অনেক দিন পর দেহা,Mymensingh,0.989,See you after a long time,See you after a long time,Mymensingh,True
+ছেড়াডা  বিদেশে গিয়া পড়ালেহা করার স্বপ্ন দেহে,Mymensingh,0.9953,The boy dreams of going abroad to study.,The boy dreams of studying abroad,Mymensingh,True
+তোমার লগে কথা কয়া আমার মেলা ভালা লাগল,Mymensingh,0.9981,It was very nice talking to you.,I enjoyed talking with you,Mymensingh,True
+তোমার বন্ধুর লগে পরিচিত হয়া  ভালা লাগলো,Mymensingh,0.9977,Nice to meet your friend,Nice to meet your friend,Mymensingh,True
+লোকটা কিসু দিন আগে  বিয়া করেন,Mymensingh,0.9955,The man got married a few days ago.,The man got married a few days ago,Mymensingh,True
+বেশি কিসু কওনের আগেই  আবেগে চোখে পানি আয়া পরসে,Mymensingh,0.9969,Tears came to his eyes with emotion before he could say much,"Before saying more, tears are coming to the eyes",Mymensingh,True
+একজন মহিলা  মারা গেসেন,Mymensingh,0.9982,A woman died,A woman died,Mymensingh,True
+আফনে এত গরীব আগে কেন কন নাই,Mymensingh,0.9934,Why weren't you so poor before?,Why didn't you tell me earlier that you are so poor,Mymensingh,True
+আমার আম্মা আমারে বেহের  সামনে মারতে মারতে বাসায় নিয়া আয়,Mymensingh,0.9969,My mother brought me home to beat me in front of everyone.,My mom brought me home beating me in front of everyone,Mymensingh,True
+আফনে কি জানেন  এইহানে মেলা ছেড়া কমেন্ট পড়তে আইব,Mymensingh,0.9983,Do you know that many boys come here to read comments?,Do you know that many boys will come here to read comments,Mymensingh,True
+আমার ভালবাসা  দিয়া  সারাজীবন তোমার পাশে থাকতাম চাই,Mymensingh,0.9976,I want to be with you with my love for a lifetime.,I want to be with you all my life with my love,Mymensingh,True
+তোমারে কেমনে বুঝায়াম তোমারে কতটা ভালবাসি?,Mymensingh,0.995,How can I tell you how much I love you?,How to tell you how much I love you?,Mymensingh,True
+আফনে মেলা কষ্টে নিজেরে সামলায়া নিসেন,Mymensingh,0.9978,You managed to manage yourself with a lot of difficulty,You have handled yourself with great difficulty,Mymensingh,True
+আমার বান্ধুবি কিসু ভাবতে পারেনা আফনেরে  ছাড়া,Mymensingh,0.9964,My friend can't think of anything without you.,My girlfriend can't think of anything without you,Mymensingh,True
+আমার বন্ধু কিসু  লিখতে পারেনা  আফনের নাম ছাড়া,Mymensingh,0.9978,My friend cannot write anything without your name.,My friend can't write anything except your name,Mymensingh,True
+আফনেরে ভালবাসি  এই কথাডা কওন বাকি,Mymensingh,0.9978,It remains to say I love you.,All that is left to say is that I love you,Mymensingh,True
+আমি আমার বন্ধুরে  একটা লাল গোলাপ কিন্না উপহার দিসি,Mymensingh,0.9974,I bought a red rose for my friend,I bought and gifted a red rose to my friend,Mymensingh,True
+"যদি তুমি আমার কাসে ফিরা আও ,তাইলে তারে ছইড়া দেও",Mymensingh,0.9975,"If you come back to me, let him go","If you come back to me, let him go",Mymensingh,True
+আফনে যে মানুষটরে ভালবাসবেন  তারে যদি না বুঝতে পারেন  তাইলে আফনের এই প্রেমের কোনে অর্থ নাই,Mymensingh,0.9976,"If you can't understand the person you love, then your love has no meaning.",If you don't understand the person you love then your love has no meaning,Mymensingh,True
+আফনের  মনের কথা গুলা আমারে আজকে খুইল্লা কন,Mymensingh,0.9978,Tell me what's on your mind today.,Tell me your thoughts today,Mymensingh,True
+তুমি  কহনই পারতা না অন্য কারও ভালোবাসারে ছিনায়া নিতে,Mymensingh,0.9964,You can never take someone else's love,You can never take away someone else's love,Mymensingh,True
+তুমি  জোর কইরা অন্যের ভাল লাগার মানুষ হইতে পারবা না,Mymensingh,0.9584,You cannot force yourself to be someone else's favorite.,You can't force others to like you,Mymensingh,True
+কালকে সকালবেলা  তারারে দেখতে পারবেন,Standard Bangla,0.9136,You'll see the morning star tomorrow.,You will see them again tomorrow morning,Mymensingh,False
+আমার মেলা ভালা লাগে কালা  ওই চোখ দুইটা তোমার,Mymensingh,0.998,I really like those black eyes you have.,I like those black eyes of yours,Mymensingh,True
+তোমার হাজার কথার মাঝে তোমার  মনের কথা লুকায়া আসিল,Mymensingh,0.9976,"Amidst your thousand words, your heart was hidden.",Your heart was hidden in your thousands of words,Mymensingh,True
+তোমার পড়াশুনা কইরা  কিতা হইব যদি তুমি যারে ভালবাসো তারেই  না পাও,Mymensingh,0.9975,What happens if you don't get the one you love by studying?,What happens to your studies if you don't find the one you love?,Mymensingh,True
+মাছের বাজারে বেহেই আয়া বড় মাছটা দেহার লাইজ্ঞা ভিড় জমাইলো,Mymensingh,0.9976,Everyone gathered at the fish market to see the big fish.,The fish market was crowded to see the big fish,Mymensingh,True
+আকাশের নীলে হারায়া যাইতাম  চাই তোমারে নিয়া,Mymensingh,0.9984,I want to get lost in the blue sky with you.,I want to get lost in the blue sky with you,Mymensingh,True
+আফনের কি এহনও আফনের  ভালবাসার মানুষটার কথা মনে পড়ে?,Mymensingh,0.9977,Do you still remember the person you love?,Do you still remember your loved one?,Mymensingh,True
+তুমি  এক সন্ধ্যায় অফিস থাইক্কা বাসায় ফিরা দেখবা আমি আর নাই,Mymensingh,0.9974,"One evening, when you return home from the office, you will find me no longer there.",You will come home from office one evening and find I am gone,Mymensingh,True
+আমি যে মা তাই আমি আমার বাচ্চার  মুহের দিকে তাকায়া অনেক কিসু বুঝতাম পারি,Mymensingh,0.9976,"As a mother, I can understand many things by looking at my child's face","As a mother, I understand a lot by looking at my child's face",Mymensingh,True
+মাইয়াডা একটা ভালা চাকরি করে,Mymensingh,0.9975,The girl has a good job.,The girl does a good job,Mymensingh,True
+এই  মাসে ছেড়া তার পরিবার  নিয়া ঘুরতে যাওনের কথা,Mymensingh,0.9983,"This month, the boy is supposed to go for a walk with his family.",This month the son is supposed to travel with his family,Mymensingh,True
+মাইয়াডা  এই পোলাডারে  বিয়া করতে রাজি হইতাসে না,Mymensingh,0.9871,The girl does not agree to marry this boy.,The girl is not agreeing to marry this boy,Mymensingh,True
+আমার জামাই  আমারারে নিয়া রাইতের বেলা ঘুরতে বাইর হইব,Mymensingh,0.9982,My husband will take us out for a walk at night.,My husband will take us out for a walk at night,Mymensingh,True
+আমার পসন্দ হয় এমন ছেড়া  আমার বাপ মায়ের পসন্দ হয় না,Mymensingh,0.998,The boys I like don't like my parents,The boy I like is not liked by my parents,Mymensingh,True
+আমার ভাই  মাইয়াডার  লগে গতকাল যোগাযোগ করে,Mymensingh,0.998,My brother contacted the girl yesterday.,My brother contacted the girl yesterday,Mymensingh,True
+আমার বন্ধু ছেড়িরার লগে সারা রাইত জাইজ্ঞা কথা কয়,Mymensingh,0.9974,My friend spends all night talking to girls.,My friend stays up all night talking to girls,Mymensingh,True
+আমি ক্লাসের বেগ ছেড়ারার  সাথেই মিশতাম,Mymensingh,0.9969,I mixed with all the boys in the class,I got along with all the boys in the class,Mymensingh,True
+এই তিন বছরের আবুডার দোষ কোনখানে ?,Mymensingh,0.993,Where is this three-year-old child's fault?,Where is the fault of this three-year-old child?,Mymensingh,True
+আমার বন্ধুরা  বেহেই মেলা মেধাবী,Mymensingh,0.9981,My friends are all very talented.,All my friends are very talented,Mymensingh,True
+আফনে মেলা সুন্দর কইরা  কথা কন,Mymensingh,0.9981,You talk very nicely,You speak very nicely,Mymensingh,True
+তোমার  সুন্দর সুন্দর ছবিগুলা দেইক্ষা মেলা আনন্দ পাইসি,Mymensingh,0.998,I was very happy to see your beautiful pictures,I am very happy to see your beautiful pictures,Mymensingh,True
+মাইয়ারা বিয়া করার লাইজ্ঞা  ভদ্র পোলা খুঁজে,Mymensingh,0.9966,Girls are looking for decent boys to marry,Girls find decent boys to marry,Mymensingh,True
+বাস্তব জীবনে বিয়ার পরই ঝগড়া শুরু  হয়,Mymensingh,0.9955,Arguing begins after marriage in real life,In real life quarrels start only after marriage,Mymensingh,True
+"যতদিন এই দুনিয়াতে থাকবাম , তোমারে মনে রাখবাম",Mymensingh,0.9795,"As long as I live in this world, I will remember you","As long as I live in this world, I will remember you",Mymensingh,True
+একবার তোমার হাঁত ধরলে আর কোনদিনও ছাড়তাম না,Mymensingh,0.9969,"Once I hold your hand, I will never let go","Once I get hold of you, I will never let go",Mymensingh,True
+তোমার চুল পরার এই সমস্যা  নিয়া ডাক্তারের কাসে যাইতে হইব,Mymensingh,0.998,You have to go to the doctor to take this problem with your hair,You should go to the doctor about this hair loss problem,Mymensingh,True
+ভালা মানুষ এই দুনিয়াতে  বেশি দিন বাঁচে না,Mymensingh,0.8868,Good people don't live long in this world,Good people don't live long in this world,Mymensingh,True
+ছেড়াডা  ছুটির দিনেও কলেজে যায়,Mymensingh,0.9971,The boy also goes to college on holidays.,The boy goes to college even on holidays,Mymensingh,True
+তোমার ছোট ভাইয়ের জন্মদিন কবে?,Mymensingh,0.9804,When is your younger brother's birthday?,When is your younger brother's birthday?,Mymensingh,True
+আফনে কিতা আমারে একটা গান গায়া হুনাইতে ফারবেন ?,Mymensingh,0.9954,Can you sing me a song?,Can you sing me a song?,Mymensingh,True
+তুমি কিতা তোমার ভুল বুঝতে পারসো ?,Mymensingh,0.9978,Do you understand your mistake?,Did you realize your mistake?,Mymensingh,True
+তুমি কিতা আমার লাইজ্ঞা একটা গান লেইক্ষা দিতে পারবা?,Mymensingh,0.9982,Can you write a song for me?,Can you write a song for me?,Mymensingh,True
+আমার বন্ধুরা সহাল বেলা  ফুটবল খেলত মাঠে যায়,Mymensingh,0.9954,My friends go to the field to play soccer every morning.,My friends go to the field to play football in the morning,Mymensingh,True
+তুমি কিতা সহালে উইত্থা চা খাইবা ?,Mymensingh,0.9978,Will you have tea in the morning?,Do you get up in the morning and eat tea?,Mymensingh,True
+আফনে একটু এইদিকে আইতে ফারবেন ?,Mymensingh,0.9829,Can you come over here for a moment?,Can you come this way?,Mymensingh,True
+তর পরিক্ষা কবে ?,Mymensingh,0.9974,When is your exam?,When is your exam?,Mymensingh,True
+আফনেরে  ছাড়া আমার বান্ধুবি ভালা নাই,Mymensingh,0.9884,My friend is not well without you.,My girlfriend is not good without you,Mymensingh,True
+আফনে কিতা চান আমি এইহান থাইক্কা চইল্লা যাই ?,Mymensingh,0.9979,Do you want me to leave here?,Do you want me to leave here?,Mymensingh,True
+আফনে  কিতা এই বিয়াতে রাজি হইসেন ?,Mymensingh,0.9981,Have you agreed to this marriage?,Have you agreed to this marriage?,Mymensingh,True
+ছেড়াডা অনেক  বেশী কথা কয়,Mymensingh,0.9979,The boy talks a lot,The boy talks too much,Mymensingh,True
+আফনে আইজ সহালে চা খান  নাই,Mymensingh,0.9978,You didn't have tea this morning.,You didn't have tea this morning,Mymensingh,True
+আমি আমার আম্মার  বেগ কথা খুবই মনোযোগ দিয়া হুনি,Mymensingh,0.9955,I listen to everything my mother says very carefully.,I listen very carefully to everything my mother says,Mymensingh,True
+লোকটা হের বউয়ের গায়ে  হাত তুলে,Mymensingh,0.9976,The man raised his hand against his wife,The man put his hand on his wife,Mymensingh,True
+তোমার কিতা লোক দেহানো শেষ?,Mymensingh,0.9969,Have you finished seeing people?,Are you done showing people?,Mymensingh,True
+আমার বউ  আমারে কোনদিনও খোঁচা মাইরা কথা কয় নাই,Mymensingh,0.9981,My wife has never spoken to me sparingly.,My wife never scolded me,Mymensingh,True
+তুমি একজন  ভালা মাইয়া মানুষ,Mymensingh,0.9961,You are a good girl,You are a good girl,Mymensingh,True
+তোমারে জোর  কইরা বিয়া দেয়া হইসিল,Mymensingh,0.9983,You were forced into marriage,You were forced into marriage,Mymensingh,True
+হেয়  দুইবেলা ভাত খাইতে পারে না,Mymensingh,0.9939,He can't eat rice twice a day,He cannot eat rice for two meals,Mymensingh,True
+তোমার পাশে  থাকলে আমি কল্পনার চেয়েও বেশি সুখী থাহি,Mymensingh,0.9977,I am happier with you than I could have imagined,I am happier than I can imagine when I am by your side,Mymensingh,True
+আমি মেলা ভালা মেকআপ করি,Mymensingh,0.9974,I do very good makeup,I wear a lot of makeup,Mymensingh,True
+"আফনেরে কিসু কওন লাগে না , আফনে এমনিতেই আমার মনের কথা বুইজ্ঝা যান",Mymensingh,0.9981,"You don't need to say anything, you just understand what is in my heart","You don't need to say anything, you already understand what I mean",Mymensingh,True
+তুমি আমার  কাসে ধরা পড়নের পরেও পরকীয়া করনের কথা স্বীকার করতাসো না,Mymensingh,0.9983,"Even after being caught by me, you are not admitting to being an alien.",You are not admitting to adultery even after being caught by me,Mymensingh,True
+তোমার ছোট ভাই  আগে নেশায় আসক্ত আসিল,Mymensingh,0.9931,Your younger brother used to be addicted.,Your younger brother was addicted to drugs before,Mymensingh,True
+আমি আর আমার ছোট বইন আইজ খালাম্মার বাসায় ঘুরতে যাইব,Mymensingh,0.998,My younger sister and I are going to visit my in-laws' house today.,Me and my younger sister will visit Khalamuni's house today,Mymensingh,True
+তুমি কিতা আমডা খাইসলা ?,Mymensingh,0.9982,Did you eat mango?,Did you eat the mango?,Mymensingh,True
+আফনে আমারে দয়া কইরা  বিশ্বাস করেন,Mymensingh,0.9977,Please believe me,Please believe me,Mymensingh,True
+ছোট আবুডা  অসুস্থ হয়ে পরসে,Mymensingh,0.9966,The little child has fallen ill.,The little child is sick,Mymensingh,True
+তুমি কিতা আমার লাইজ্ঞা অপেক্ষা করতে পারবা ?,Mymensingh,0.9981,Can you wait for me?,can you wait for me,Mymensingh,True
+তুমি আমার কাসে  মাফ চাও,Mymensingh,0.9965,You apologize to me.,You apologize to me,Mymensingh,True
+তোমার কিতা মাথা ব্যাথা করতাসে ?,Mymensingh,0.9977,Do you have a headache?,Do you have a headache?,Mymensingh,True
+আমার হাত  খরচের টাকা আমার আব্বা দেয়,Mymensingh,0.9933,My father pays for my expenses.,My father pays my expenses,Mymensingh,True
+বাড়ি থাইক্কা বিয়ার লাইজ্ঞা আমার লাইজ্ঞা মাইয়া  দেহা শুরু করলো,Mymensingh,0.9977,He started dating me for marriage from home,She started looking for me for marriage from home,Mymensingh,True
+ছেড়াডা আরও দুই  বসর পরে বিয়া করতে চায়,Mymensingh,0.9977,The boy wants to get married after two more years.,The boy wants to get married after two more years,Mymensingh,True
+আমি বেহেইরে বুঝায়া বুঝায়া ক্লান্ত যে আমার আম্মা  এরকম কিসু করে  নাই,Mymensingh,0.9976,I am tired of explaining to everyone that my mother did nothing like this,I'm tired of explaining to everyone that my mom never did anything like that,Mymensingh,True
+আব্বা অশিক্ষিত একটা ছেড়ার সাথে আমার বিয়া  দিতে চাইসিল,Mymensingh,0.9977,My father wanted to marry me to an uneducated boy.,My father wanted to marry me to an illiterate boy,Mymensingh,True
+আমার বাইরে ঘুরতে যাওনের কোন  ইচ্ছা আসিল না,Mymensingh,0.9968,I had no desire to go for a walk.,I had no desire to go outside,Mymensingh,True
+প্রথমদিকে আফনেরে আমি এত  ভালবাসতাম না,Mymensingh,0.9971,At first I didn't love you so much,At first I didn't love you so much,Mymensingh,True
+ছেড়াডা সপ্তাহখানেক আগে  আমরার লগে দেহা করসে,Mymensingh,0.9979,The boy met with us a week ago.,The boy met us a week ago,Mymensingh,True
+ওই মাইয়ারে যেমনেই হোক  খুঁইজ্জা বাইর করতে হইব,Mymensingh,0.9866,That girl must be found anyway.,That girl has to be found anyway,Mymensingh,True
+ছেড়াডা তার পরিবারসহ  ঈদের আগের দিন আমরার লগে দেহা করতে আইসিল,Mymensingh,0.9978,The boy came with his family to visit us on the day before Eid.,The boy along with his family came to visit us the day before Eid,Mymensingh,True
+মাইয়াডা বাংলাদেশে আয় তার পসন্দের ছেড়ার সাথে  বিয়া ঠিক করসে,Mymensingh,0.9981,The girl came to Bangladesh and decided to marry her favorite boy,The girl came to Bangladesh and decided to marry the boy of her choice,Mymensingh,True
+আমার ছোট ভাই উশশির সালুন দিয়া ভাত খাইতে মেলা ভালবাসে,Mymensingh,0.9971,My younger brother loves to eat rice with mushroom lettuce.,My younger brother loves to eat rice with sim's bean curry,Mymensingh,True
+আমরার গ্রামের বাড়িত অনেক গুলা  মুরগির বাচ্চা আসে,Mymensingh,0.9967,There are many chickens in our village home,We have many chickens in our village house,Mymensingh,True
+আমার ছোট বইন খুবই বোকা,Mymensingh,0.9953,My younger sister is very stupid.,My younger sister is very stupid,Mymensingh,True
+গ্রামের বারি গিয়া আমি একলা একলা  সাঁতার  কাটসি,Sylhet,0.9595,I went swimming in the village alone,I swam alone after going to the village,Mymensingh,False
+"আমার আব্বা , আম্মা , ভাই, বইন ড্রয়িংরুমে বয়া আসে",Mymensingh,0.9983,"My father, mother, brother, sister are sitting in the drawing room.","My father, mother, brother, sister are sitting in the drawing room",Mymensingh,True
+আমরার ঘরের স্টোররুমডা মেলা বড়,Mymensingh,0.998,Our store room is very large,The storeroom in our house is very big,Mymensingh,True
+আবুডা একটা বিলাইয়ের বাচ্চারে আদর করতাসে,Mymensingh,0.9964,The child is adoring a child,Child caressing a kitten,Mymensingh,True
+আমার আব্বা লাউ দিয়া চিংড়ি মাছের ঝোল আমার মেলা পসন্দ করে,Mymensingh,0.9983,My father really likes clam clam clam clams.,My father likes the shrimp broth with gourd,Mymensingh,True
+আমার আম্মা কয় যে তেঁতুল  খাইলে  আমার বুদ্ধি কইম্মা যাইব,Mymensingh,0.9976,"My mother says that if I eat tamarind, my mind will lose",My mom says that eating tamarind will reduce my intelligence,Mymensingh,True
+গরমের দিনে লবণ দিয়া  শশা খাইতে মেলা ভালা লাগে,Mymensingh,0.9931,It is very nice to eat mustard with salt on a hot day,It is very good to eat cucumber with salt on hot days,Mymensingh,True
+আমার আব্বা গায়ে সইরষার তেল মালিশ  করে,Mymensingh,0.9974,My father massage mustard oil on his face.,My father massaged mustard oil on his body,Mymensingh,True
+আমরার গ্রামের বাজারে অনেক বড় একটা  দেশী মুরগীর দোকান আসে,Mymensingh,0.9943,There is a very large native chicken shop in our village market,There is a very big country chicken shop in our village market,Mymensingh,True
+আমি আইজকে শিম ভাজি  দিয়া দুপুরে ভাত খাইসি,Mymensingh,0.9944,I had rice cooked with beans for lunch today.,Today I had fried beans and rice for lunch,Mymensingh,True
+দুইদিন ধইরা আমরার মেলা সর্দি-জ্বর,Mymensingh,0.9976,We have had a lot of cold and fever for two days,I have a lot of cold and fever for two days,Mymensingh,True
+আইজকে ইংল্যান্ড বিশ্বকাপ ক্রিকেট খেলায়  জিত্তা গেসে,Mymensingh,0.998,England won the Cricket World Cup today,Today England won the World Cup cricket match,Mymensingh,True
+তুমি কিতা আমারে এক গ্লাস পানি আইন্না দিতে পারবা ?,Mymensingh,0.998,Can you bring me a glass of water?,Can you get me a glass of water?,Mymensingh,True
+আচ্ছা কও দেহি বাংলাদেশে কয়ডা জেলা?,Mymensingh,0.5425,"Well, tell me, how many districts are there in Bangladesh?",Well tell me how many districts in Bangladesh?,Mymensingh,True
